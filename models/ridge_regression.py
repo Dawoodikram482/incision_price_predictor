@@ -1,12 +1,13 @@
 import pandas as pd
 import numpy as np
+import joblib
 from sklearn.linear_model import Ridge, Lasso
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load data
-data = pd.read_csv('data/final_dataset/cleaned_data.csv', low_memory=False)
+data = pd.read_csv('data/cleaned_data.csv', low_memory=False)
 
 # Step 1: Preprocess the Data
 data['surgeon_name'] = data['surgeon_name'].fillna("Standardized")
@@ -57,12 +58,12 @@ X_train_sel, X_test_sel, y_train, y_test = train_test_split(X_scaled_selected, y
 # Train model on selected features
 model = Ridge(alpha=best_alpha, random_state=42)
 model.fit(X_train_sel, y_train)
+joblib.dump(model, 'model_weights.joblib')
 y_pred_test_sel = model.predict(X_test_sel)
 print("Test MSE with selected features:", mean_squared_error(y_test, y_pred_test_sel))
 baseline_mse = mean_squared_error(y, np.full_like(y, y.mean()))
 print("Baseline MSE (Mean Prediction):", baseline_mse)
 
-# Step 4: Compare Costs and Optimize Material List
 results = {}
 for proc_id in data['procedure_id'].unique():
     proc_data = data[data['procedure_id'] == proc_id]
@@ -100,7 +101,7 @@ for proc_id in data['procedure_id'].unique():
         'optimized_cost': optimized_cost
     }
 
-# Step 5: Output Results for Specific Procedure
+#Output Results for Specific Procedure
 specific_proc_id = 1901
 print(f"\nProcedure Cost Comparison and Optimization for Procedure ID {specific_proc_id}:")
 if specific_proc_id in results:

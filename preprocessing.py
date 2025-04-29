@@ -2,30 +2,33 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 
-def preprocess_input(input_data, scaler, feature_cols):
-    # Convert input JSON to DataFrame
-    data = pd.DataFrame([input_data])
-
-    # Step 1: Handle missing values
-    data['surgeon_name'] = data['surgeon_name'].fillna("Standardized")
-    data['surgeon_surname'] = data['surgeon_surname'].fillna("Standardized")
-    data['material_price'] = data['material_price'].fillna(data['material_price'].mean()) if 'material_price' in data else 0
-    data['is_default'] = (data['surgeon_name'] == "Standardized").astype(int)
-
-    # Step 2: Encode categorical features
-    data_encoded = pd.get_dummies(data, columns=['material_name', 'surgeon_specific_action'], prefix=['mat', 'action'])
-
-    # Step 3: Ensure all expected feature columns are present
-    for col in feature_cols:
+def preprocess_dataset(data, is_training=True):
+    """
+    Preprocess input dataset for Ridge Regression model.
+    Args:
+        data (pd.DataFrame): Input dataset
+        is_training (bool): If True, assumes price column exists (training); if False, no price column (testing)
+    Returns:
+        pd.DataFrame: Preprocessed dataset ready for prediction
+    """
+    # One-hot encode categorical columns
+    categorical_cols = ['material_name', 'specialty', 'procedure', 'is_default']
+    data_encoded = pd.get_dummies(data, columns=[col for col in categorical_cols if col in data.columns])
+    
+    # Load training data to get expected columns
+    train_data = pd.read_csv('data/train/cleaned_data.csv')
+    train_encoded = pd.get_dummies(train_data, columns=categorical_cols)
+    
+    # Ensure test data has the same columns as training data (except price)
+    expected_columns = [col for col in train_encoded.columns if col != 'price']
+    for col in expected_columns:
         if col not in data_encoded.columns:
             data_encoded[col] = 0
-    # Keep only the expected feature columns in the correct order
-    data_encoded = data_encoded[feature_cols]
-
-    # Step 4: Scale the features
-    data_scaled = scaler.transform(data_encoded)
-
-    return data_scaled
+    
+    # Reorder columns to match training data
+    data_encoded = data_encoded[expected_columns]
+    
+    return data_encoded
 
 # def preprocess_image(image_path):
 #     """
@@ -33,6 +36,6 @@ def preprocess_input(input_data, scaler, feature_cols):
 #     Resizes image to 640x640 as expected by YOLOv5.
 #     """
 #     img = Image.open(image_path)
-#     img = img.resize((640, 640))  # YOLOv5 expects 640x640 input
-#     img.save(image_path)  # Overwrite with resized image
+#     img = img.resize((640, 640))
+#     img.save(image_path)
 #     return image_path

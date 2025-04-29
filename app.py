@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import pandas as pd
 import os
-from preprocessing import preprocess_dataset
-from prediction_model import predict_material_prices
+from preprocessing import preprocess_dataset, preprocess_image
+from prediction_model import predict_material_prices, detect_tools, match_tools, calculate_tray_cost
 
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
@@ -20,20 +20,23 @@ def upload_dataset():
     file_path = os.path.join(UPLOAD_FOLDER, file.filename)
     file.save(file_path)
     
-    # Load and preprocess dataset
+    # Load and preprocess dataset (assume testing data, no prices)
     data = pd.read_csv(file_path)
-    preprocessed_data = preprocess_dataset(data)
+    preprocessed_data = preprocess_dataset(data, is_training=False)
     
     # Predict prices
     predictions = predict_material_prices(preprocessed_data)
     
-    # Mock procedure-level results (simplify for PoC)
+    # Group predictions by procedure (mock procedure IDs for simplicity)
     results = []
     for i, pred in enumerate(predictions):
         results.append({
             "procedure_id": i + 1901,  # Mock ID
-            "default_cost": data['price'].iloc[i] if 'price' in data.columns else 0.0,
-            "optimized_cost": min(data['price'].iloc[i] if 'price' in data.columns else pred, pred)
+            "material_name": data['material_name'].iloc[i],
+            "specialty": data['specialty'].iloc[i],
+            "procedure": data['procedure'].iloc[i],
+            "is_default": data['is_default'].iloc[i],
+            "predicted_price": pred
         })
     
     return jsonify({"predictions": results})
@@ -53,7 +56,7 @@ def upload_dataset():
 #     # Detect tools
 #     tools = detect_tools(image_path)
     
-#     # Match tools to materials
+#     # Match tools to materials and predict prices
 #     matched_tools = match_tools(tools)
     
 #     # Calculate total cost
@@ -65,5 +68,5 @@ def upload_dataset():
 #         "image_path": image_path
 #     })
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', port=5000, debug=True)

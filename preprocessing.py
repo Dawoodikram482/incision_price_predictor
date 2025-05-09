@@ -1,34 +1,37 @@
 import pandas as pd
 import numpy as np
 from PIL import Image
+import joblib
 
-def preprocess_dataset(data, is_training=True):
+def preprocess_dataset(data, is_training=False):
     """
     Preprocess input dataset for Ridge Regression model.
-    Args:
-        data (pd.DataFrame): Input dataset
-        is_training (bool): If True, assumes price column exists (training); if False, no price column (testing)
-    Returns:
-        pd.DataFrame: Preprocessed dataset ready for prediction
+    Assumes data is a pandas DataFrame with columns: material_name, surgeon_specific_action, surgeon_name.
     """
-    # One-hot encode categorical columns
-    categorical_cols = ['material_name', 'specialty', 'procedure', 'is_default']
-    data_encoded = pd.get_dummies(data, columns=[col for col in categorical_cols if col in data.columns])
+    # Create is_default column based on surgeon_name (as in ridge_regression.py)
+    data['surgeon_name'] = data['surgeon_name'].fillna("Standardized")
+    data['is_default'] = (data['surgeon_name'] == "Standardized").astype(int)
+
+    # One-hot encode categorical columns based on ridge_regression.py
+    categorical_cols = ['material_name', 'surgeon_specific_action']
+    data_encoded = pd.get_dummies(data, columns=[col for col in categorical_cols if col in data.columns], prefix=['mat', 'action'])
     
-    # Load training data to get expected columns
-    train_data = pd.read_csv('data/train/cleaned_data.csv')
-    train_encoded = pd.get_dummies(train_data, columns=categorical_cols)
+    # Load the pipeline components
+    pipeline = joblib.load('models/model_weights.joblib')
+    feature_names = pipeline['important_features']
+    scaler = pipeline['scaler']
     
-    # Ensure test data has the same columns as training data (except price)
-    expected_columns = [col for col in train_encoded.columns if col != 'price']
-    for col in expected_columns:
-        if col not in data_encoded.columns:
-            data_encoded[col] = 0
+    # Align the new data with the training feature set
+    data_aligned = pd.DataFrame(0, index=data.index, columns=feature_names)
+    for col in data_encoded.columns:
+        if col in feature_names:
+            data_aligned[col] = data_encoded[col]
+    data_aligned['is_default'] = data['is_default']
     
-    # Reorder columns to match training data
-    data_encoded = data_encoded[expected_columns]
+    # Apply the scaler
+    data_scaled = scaler.transform(data_aligned)
     
-    return data_encoded
+    return data_scaled
 
 # def preprocess_image(image_path):
 #     """

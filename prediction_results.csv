@@ -1,0 +1,2662 @@
+material_name,surgeon_specific_action,surgeon_name,is_default,predicted_price
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Pledgets/lamis,DEFAULT,Standardized,1,61.77099728356744
+JP drain,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Colorado needle,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mats,DEFAULT,Standardized,1,61.77099728356744
+Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Soft Tissue tray,DEFAULT,Standardized,1,61.77099728356744
+Thyroid tray,DEFAULT,Standardized,1,61.77099728356744
+Bupivacaine 0.25% with Adrenaline,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Bone Cutters,DEFAULT,Standardized,1,61.77099728356744
+2-0 Polysorb Ties,DEFAULT,Standardized,1,61.77099728356744
+Medium Ligaclips,DEFAULT,Standardized,1,61.77099728356744
+Disposable monopolar,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Sean,0,61.76101346251994
+Small drapes,DEFAULT,Sean,0,61.76101346251994
+Blade 10,DEFAULT,Sean,0,61.76101346251994
+Blade 15,DEFAULT,Sean,0,61.76101346251994
+Diathermy machine,DEFAULT,Sean,0,61.76101346251994
+Pack 4x4,DEFAULT,Sean,0,61.76101346251994
+Suction tubing,DEFAULT,Sean,0,61.76101346251994
+Pledgets/lamis,DEFAULT,Sean,0,61.76101346251994
+JP drain,DEFAULT,Sean,0,61.76101346251994
+Receivers and gallipots,DEFAULT,Sean,0,61.76101346251994
+Light handle,DEFAULT,Sean,0,61.76101346251994
+Suction device,DEFAULT,Sean,0,61.76101346251994
+Colorado needle,DEFAULT,Sean,0,61.76101346251994
+Magnetic mats,DEFAULT,Sean,0,61.76101346251994
+Steri-strips,DEFAULT,Sean,0,61.76101346251994
+Soft Tissue tray,DEFAULT,Sean,0,61.76101346251994
+Thyroid tray,DEFAULT,Sean,0,61.76101346251994
+Bupivacaine 0.25% with Adrenaline,ADDED,Sean,0,61.765311757022225
+Yankauer sucker,DEFAULT,Sean,0,61.76101346251994
+Bone Cutters,DEFAULT,Sean,0,61.76101346251994
+2-0 Polysorb Ties,DEFAULT,Sean,0,61.76101346251994
+Medium Ligaclips,DEFAULT,Sean,0,61.76101346251994
+Disposable monopolar,DEFAULT,Sean,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl undyed,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Pledgets/lamis,DEFAULT,Standardized,1,61.77099728356744
+Fluroscope drape,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Marker pen,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Facial nerve stimulator probe,DEFAULT,Standardized,1,61.77099728356744
+Facial nerve needles packs,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mat,DEFAULT,Standardized,1,61.77099728356744
+Trolley cover,DEFAULT,Standardized,1,61.77099728356744
+Soft Tissue tray,DEFAULT,Standardized,1,61.77099728356744
+Vicryl ties 3-0,DEFAULT,Standardized,1,61.77099728356744
+Neurosign N400 nerve stimulator monitor,DEFAULT,Standardized,1,61.77099728356744
+Artiss Solution,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Yellow fish hook,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Microscope cover,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 3-0,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 pack,DEFAULT,Standardized,1,15.00085372117779
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Mercian Curved scissors,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis cable,DEFAULT,Standardized,1,61.77099728356744
+Mr Holland's instruments,DEFAULT,Standardized,1,61.77099728356744
+Universal Consigned Screwdriver,DEFAULT,Standardized,1,61.77099728356744
+Arachnoid knife - straight,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Patties large square,DEFAULT,Standardized,1,61.77099728356744
+Codman strips,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+AVM Instruments Tray 2,DEFAULT,Standardized,1,61.77099728356744
+Yasargil Aneurysm Clip Appliers & Removers,DEFAULT,Standardized,1,61.77099728356744
+Yasargil Aneurysm Clips STD & Mini Clips Tray,DEFAULT,Standardized,1,61.77099728356744
+Budde Halo,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Leggings,DEFAULT,Standardized,1,61.77099728356744
+12x12 pack,DEFAULT,Standardized,1,24.949173670937256
+Brackman sucker,DEFAULT,Standardized,1,61.77099728356744
+Brain retractor 12.5mm,DEFAULT,Standardized,1,61.77099728356744
+Proper surgicel,DEFAULT,Standardized,1,61.77099728356744
+Craniotome cutter,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis forceps,DEFAULT,Standardized,1,61.77099728356744
+Verdye 5mg/ml,DEFAULT,Standardized,1,61.77099728356744
+Papaverine 40mg/1ml,DEFAULT,Standardized,1,61.77099728356744
+Straight Mercian scissors,DEFAULT,Standardized,1,61.77099728356744
+T-bar Fenestrated Clips,DEFAULT,Standardized,1,61.77099728356744
+Black chair,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Yellow Fish Hook,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Daniel,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Daniel,0,61.76101346251994
+Spinal pack,DEFAULT,Daniel,0,61.76101346251994
+Microscope cover,DEFAULT,Daniel,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Daniel,0,61.76101346251994
+Blade 10,DEFAULT,Daniel,0,61.76101346251994
+Blade 15,DEFAULT,Daniel,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Daniel,0,61.76101346251994
+Vicryl 3-0,DEFAULT,Daniel,0,61.76101346251994
+Microscope,DEFAULT,Daniel,0,61.76101346251994
+Diathermy machine,DEFAULT,Daniel,0,61.76101346251994
+4x4 pack,DEFAULT,Daniel,0,14.990869900130292
+Medium long patties,DEFAULT,Daniel,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,Daniel,0,61.76101346251994
+Small square patties,DEFAULT,Daniel,0,61.76101346251994
+Blunt needle,DEFAULT,Daniel,0,61.76101346251994
+Mercian Curved scissors,DEFAULT,Daniel,0,61.76101346251994
+Rhoton Dissectors,DEFAULT,Daniel,0,61.76101346251994
+Suction device,DEFAULT,Daniel,0,61.76101346251994
+Speitzler Mallis cable,DEFAULT,Daniel,0,61.76101346251994
+Mr Holland's instruments,DEFAULT,Daniel,0,61.76101346251994
+Universal Consigned Screwdriver,DEFAULT,Daniel,0,61.76101346251994
+Arachnoid knife - straight,DEFAULT,Daniel,0,61.76101346251994
+Micro patties,DEFAULT,Daniel,0,61.76101346251994
+Patties large square,DEFAULT,Daniel,0,61.76101346251994
+Codman strips,DEFAULT,Daniel,0,61.76101346251994
+MR8 electric drill,DEFAULT,Daniel,0,61.76101346251994
+AVM Instruments Tray 2,DEFAULT,Daniel,0,61.76101346251994
+Yasargil Aneurysm Clip Appliers & Removers,DEFAULT,Daniel,0,61.76101346251994
+Yasargil Aneurysm Clips STD & Mini Clips Tray,DEFAULT,Daniel,0,61.76101346251994
+Budde Halo,DEFAULT,Daniel,0,61.76101346251994
+Craniotomy drape,DEFAULT,Daniel,0,61.76101346251994
+Small absorbent drapes,DEFAULT,Daniel,0,61.76101346251994
+Leggings,DEFAULT,Daniel,0,61.76101346251994
+12x12 pack,DEFAULT,Daniel,0,24.939189849889758
+Brackman sucker,DEFAULT,Daniel,0,61.76101346251994
+Brain retractor 12.5mm,DEFAULT,Daniel,0,61.76101346251994
+Proper surgicel,DEFAULT,Daniel,0,61.76101346251994
+Craniotome cutter,DEFAULT,Daniel,0,61.76101346251994
+Speitzler Mallis forceps,DEFAULT,Daniel,0,61.76101346251994
+Verdye 5mg/ml,DEFAULT,Daniel,0,61.76101346251994
+Papaverine 40mg/1ml,DEFAULT,Daniel,0,61.76101346251994
+Straight Mercian scissors,DEFAULT,Daniel,0,61.76101346251994
+T-bar Fenestrated Clips,DEFAULT,Daniel,0,61.76101346251994
+Colorado needle,ADDED,Daniel,0,61.765311757022225
+Orange needle,ADDED,Daniel,0,61.76531175702238
+Black chair,DEFAULT,Daniel,0,61.7610134625201
+MR8 drill console,DEFAULT,Daniel,0,61.7610134625201
+Blue fish hook,DEFAULT,Daniel,0,61.76101346251994
+Yellow Fish Hook,DEFAULT,Daniel,0,61.76101346251994
+Neuro set up,DEFAULT,Helen,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Helen,0,61.76101346251994
+Spinal pack,DEFAULT,Helen,0,61.76101346251994
+Microscope cover,DEFAULT,Helen,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Helen,0,61.76101346251994
+Blade 10,DEFAULT,Helen,0,61.76101346251994
+Blade 15,DEFAULT,Helen,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Helen,0,61.76101346251994
+Vicryl 3-0,DEFAULT,Helen,0,61.76101346251994
+Microscope,DEFAULT,Helen,0,61.76101346251994
+Diathermy machine,DEFAULT,Helen,0,61.76101346251994
+4x4 pack,DEFAULT,Helen,0,14.990869900130292
+Medium long patties,DEFAULT,Helen,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,Helen,0,61.76101346251994
+Small square patties,DEFAULT,Helen,0,61.76101346251994
+Blunt needle,DEFAULT,Helen,0,61.76101346251994
+Mercian Curved scissors,DEFAULT,Helen,0,61.76101346251994
+Rhoton Dissectors,DEFAULT,Helen,0,61.76101346251994
+Suction device,DEFAULT,Helen,0,61.76101346251994
+Speitzler Mallis cable,DEFAULT,Helen,0,61.76101346251994
+Mr Holland's instruments,DEFAULT,Helen,0,61.76101346251994
+Universal Consigned Screwdriver,DEFAULT,Helen,0,61.76101346251994
+Arachnoid knife - straight,DEFAULT,Helen,0,61.76101346251994
+Micro patties,DEFAULT,Helen,0,61.76101346251994
+Patties large square,DEFAULT,Helen,0,61.76101346251994
+Codman strips,DEFAULT,Helen,0,61.76101346251994
+MR8 electric drill,DEFAULT,Helen,0,61.76101346251994
+AVM Instruments Tray 2,DEFAULT,Helen,0,61.76101346251994
+Yasargil Aneurysm Clip Appliers & Removers,DEFAULT,Helen,0,61.76101346251994
+Yasargil Aneurysm Clips STD & Mini Clips Tray,DEFAULT,Helen,0,61.76101346251994
+Budde Halo,DEFAULT,Helen,0,61.76101346251994
+Craniotomy drape,DEFAULT,Helen,0,61.76101346251994
+Small absorbent drapes,DEFAULT,Helen,0,61.76101346251994
+Leggings,DEFAULT,Helen,0,61.76101346251994
+12x12 pack,DEFAULT,Helen,0,24.939189849889758
+Brackman sucker,DEFAULT,Helen,0,61.76101346251994
+Brain retractor 12.5mm,DEFAULT,Helen,0,61.76101346251994
+Proper surgicel,DEFAULT,Helen,0,61.76101346251994
+Craniotome cutter,DEFAULT,Helen,0,61.76101346251994
+Speitzler Mallis forceps,DEFAULT,Helen,0,61.76101346251994
+Verdye 5mg/ml,DEFAULT,Helen,0,61.76101346251994
+Papaverine 40mg/1ml,DEFAULT,Helen,0,61.76101346251994
+Straight Mercian scissors,DEFAULT,Helen,0,61.76101346251994
+T-bar Fenestrated Clips,DEFAULT,Helen,0,61.76101346251994
+Colorado needle,ADDED,Helen,0,61.765311757022225
+Black chair,DEFAULT,Helen,0,61.76101346251994
+PDS 4-0,ADDED,Helen,0,61.765311757022225
+MR8 drill console,DEFAULT,Helen,0,61.76101346251994
+Blue fish hook,DEFAULT,Helen,0,61.76101346251994
+Yellow Fish Hook,DEFAULT,Helen,0,61.76101346251994
+Neuro set up,DEFAULT,Jeremy,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Jeremy,0,61.76101346251994
+Spinal pack,DEFAULT,Jeremy,0,61.76101346251994
+Microscope cover,DEFAULT,Jeremy,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Jeremy,0,61.76101346251994
+Blade 10,DEFAULT,Jeremy,0,61.76101346251994
+Blade 15,DEFAULT,Jeremy,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Jeremy,0,61.76101346251994
+Vicryl 3-0,DEFAULT,Jeremy,0,61.76101346251994
+Microscope,DEFAULT,Jeremy,0,61.76101346251994
+Diathermy machine,DEFAULT,Jeremy,0,61.76101346251994
+4x4 pack,DEFAULT,Jeremy,0,14.990869900130292
+Medium long patties,DEFAULT,Jeremy,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,Jeremy,0,61.76101346251994
+Small square patties,DEFAULT,Jeremy,0,61.76101346251994
+Blunt needle,DEFAULT,Jeremy,0,61.76101346251994
+Mercian Curved scissors,DEFAULT,Jeremy,0,61.76101346251994
+Rhoton Dissectors,DEFAULT,Jeremy,0,61.76101346251994
+Suction device,DEFAULT,Jeremy,0,61.76101346251994
+Speitzler Mallis cable,DEFAULT,Jeremy,0,61.76101346251994
+Mr Holland's instruments,DEFAULT,Jeremy,0,61.76101346251994
+Universal Consigned Screwdriver,DEFAULT,Jeremy,0,61.76101346251994
+Arachnoid knife - straight,DEFAULT,Jeremy,0,61.76101346251994
+Micro patties,DEFAULT,Jeremy,0,61.76101346251994
+Patties large square,DEFAULT,Jeremy,0,61.76101346251994
+Codman strips,DEFAULT,Jeremy,0,61.76101346251994
+MR8 electric drill,DEFAULT,Jeremy,0,61.76101346251994
+AVM Instruments Tray 2,DEFAULT,Jeremy,0,61.76101346251994
+Yasargil Aneurysm Clip Appliers & Removers,DEFAULT,Jeremy,0,61.76101346251994
+Yasargil Aneurysm Clips STD & Mini Clips Tray,DEFAULT,Jeremy,0,61.76101346251994
+Budde Halo,DEFAULT,Jeremy,0,61.76101346251994
+Craniotomy drape,DEFAULT,Jeremy,0,61.76101346251994
+Small absorbent drapes,DEFAULT,Jeremy,0,61.76101346251994
+Leggings,DEFAULT,Jeremy,0,61.76101346251994
+12x12 pack,DEFAULT,Jeremy,0,24.939189849889758
+Brackman sucker,DEFAULT,Jeremy,0,61.76101346251994
+Brain retractor 12.5mm,DEFAULT,Jeremy,0,61.76101346251994
+Proper surgicel,DEFAULT,Jeremy,0,61.76101346251994
+Craniotome cutter,DEFAULT,Jeremy,0,61.76101346251994
+Speitzler Mallis forceps,DEFAULT,Jeremy,0,61.76101346251994
+Verdye 5mg/ml,DEFAULT,Jeremy,0,61.76101346251994
+Papaverine 40mg/1ml,DEFAULT,Jeremy,0,61.76101346251994
+Straight Mercian scissors,DEFAULT,Jeremy,0,61.76101346251994
+T-bar Fenestrated Clips,DEFAULT,Jeremy,0,61.76101346251994
+Curved Cairns,ADDED,Jeremy,0,61.765311757022225
+Elastic bands,ADDED,Jeremy,0,61.765311757022225
+Black chair,DEFAULT,Jeremy,0,61.76101346251994
+MR8 drill console,DEFAULT,Jeremy,0,61.76101346251994
+Blue fish hook,DEFAULT,Jeremy,0,61.76101346251994
+Yellow Fish Hook,DEFAULT,Jeremy,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+3-0 Silk suture,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Medtronic Rhinoplasty Tray,DEFAULT,Standardized,1,61.77099728356744
+Bipolar Forcep & Cable ENT,DEFAULT,Standardized,1,61.77099728356744
+Soft tissue pack,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Blue needles,DEFAULT,Standardized,1,61.77099728356744
+Long sterile cotton buds packs,DEFAULT,Standardized,1,61.77099728356744
+5-0 PDS undyed,DEFAULT,Standardized,1,61.77099728356744
+4-0 Vicryl rapide,DEFAULT,Standardized,1,61.77099728356744
+5-0 Vicryl rapide,DEFAULT,Standardized,1,61.77099728356744
+6-0 Vicryl rapide,DEFAULT,Standardized,1,61.77099728356744
+Syringe 10ml,DEFAULT,Standardized,1,61.77099728356744
+Thermoplastic splint,DEFAULT,Standardized,1,61.77099728356744
+ENT kettle,DEFAULT,Standardized,1,61.77099728356744
+Tutoplast Fascia Lata,DEFAULT,Standardized,1,61.77099728356744
+Cartilage rib,DEFAULT,Standardized,1,61.77099728356744
+Blue nasal splints,DEFAULT,Standardized,1,61.77099728356744
+Sodium Chloride,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Archana,0,61.76101346251994
+3-0 Silk suture,DEFAULT,Archana,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Archana,0,61.76101346251994
+Diathermy machine,DEFAULT,Archana,0,61.76101346251994
+Dental syringe,DEFAULT,Archana,0,61.76101346251994
+Dental needle,DEFAULT,Archana,0,61.76101346251994
+Blue gauze,DEFAULT,Archana,0,61.76101346251994
+6 Fraiser sucker,ADDED,Archana,0,61.765311757022225
+Headlights,DEFAULT,Archana,0,61.76101346251994
+Suction device,DEFAULT,Archana,0,61.76101346251994
+Steri-strips,DEFAULT,Archana,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Archana,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Archana,0,61.76101346251994
+Soft tissue pack,DEFAULT,Archana,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Archana,0,61.76101346251994
+Blue needles,DEFAULT,Archana,0,61.76101346251994
+Long sterile cotton buds packs,DEFAULT,Archana,0,61.76101346251994
+5-0 PDS undyed,DEFAULT,Archana,0,61.76101346251994
+4-0 Vicryl rapide,DEFAULT,Archana,0,61.76101346251994
+5-0 Vicryl rapide,DEFAULT,Archana,0,61.76101346251994
+6-0 Vicryl rapide,DEFAULT,Archana,0,61.76101346251994
+Syringe 10ml,DEFAULT,Archana,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Archana,0,61.76101346251994
+Gentamicin solution,ADDED,Archana,0,61.765311757022225
+ENT kettle,DEFAULT,Archana,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Archana,0,61.76101346251994
+Cartilage rib,DEFAULT,Archana,0,61.76101346251994
+Blue nasal splints,DEFAULT,Archana,0,61.76101346251994
+Sodium Chloride,DEFAULT,Archana,0,61.76101346251994
+15 Blade,DEFAULT,Bilal,0,61.76101346251994
+3-0 Silk suture,DEFAULT,Bilal,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Bilal,0,61.76101346251994
+Diathermy machine,DEFAULT,Bilal,0,61.76101346251994
+Dental syringe,DEFAULT,Bilal,0,61.76101346251994
+Dental needle,DEFAULT,Bilal,0,61.7610134625201
+Blue gauze,DEFAULT,Bilal,0,61.7610134625201
+6 Fraiser sucker,ADDED,Bilal,0,61.76531175702238
+Headlights,DEFAULT,Bilal,0,61.76101346251994
+Suction device,DEFAULT,Bilal,0,61.76101346251994
+Steri-strips,DEFAULT,Bilal,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Bilal,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Bilal,0,61.76101346251994
+Soft tissue pack,DEFAULT,Bilal,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Bilal,0,61.76101346251994
+Blue needles,DEFAULT,Bilal,0,61.76101346251994
+Long sterile cotton buds packs,DEFAULT,Bilal,0,61.76101346251994
+5-0 PDS undyed,DEFAULT,Bilal,0,61.76101346251994
+4-0 Vicryl rapide,DEFAULT,Bilal,0,61.76101346251994
+5-0 Vicryl rapide,DEFAULT,Bilal,0,61.76101346251994
+6-0 Vicryl rapide,DEFAULT,Bilal,0,61.76101346251994
+Syringe 10ml,DEFAULT,Bilal,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Bilal,0,61.76101346251994
+Mr Woolford’s Rhinoplasty Extras Tray,ADDED,Bilal,0,61.765311757022225
+ENT kettle,DEFAULT,Bilal,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Bilal,0,61.76101346251994
+Cartilage rib,DEFAULT,Bilal,0,61.76101346251994
+Blue nasal splints,DEFAULT,Bilal,0,61.76101346251994
+Sodium Chloride,DEFAULT,Bilal,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Raj,0,61.76101346251994
+15 Blade,DEFAULT,Raj,0,61.76101346251994
+3-0 Silk suture,DEFAULT,Raj,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Raj,0,61.76101346251994
+Diathermy machine,DEFAULT,Raj,0,61.76101346251994
+Dental syringe,DEFAULT,Raj,0,61.76101346251994
+Dental needle,DEFAULT,Raj,0,61.76101346251994
+Blue gauze,DEFAULT,Raj,0,61.76101346251994
+Headlights,DEFAULT,Raj,0,61.76101346251994
+Suction device,DEFAULT,Raj,0,61.76101346251994
+Steri-strips,DEFAULT,Raj,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Raj,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Raj,0,61.76101346251994
+Soft tissue pack,DEFAULT,Raj,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Raj,0,61.76101346251994
+Blue needles,DEFAULT,Raj,0,61.76101346251994
+Long sterile cotton buds packs,DEFAULT,Raj,0,61.76101346251994
+5-0 PDS undyed,DEFAULT,Raj,0,61.76101346251994
+4-0 Vicryl rapide,DEFAULT,Raj,0,61.76101346251994
+5-0 Vicryl rapide,DEFAULT,Raj,0,61.76101346251994
+6-0 Vicryl rapide,DEFAULT,Raj,0,61.76101346251994
+Vicryl rapide 6-0,ADDED,Raj,0,61.765311757022225
+Syringe 10ml,DEFAULT,Raj,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Raj,0,61.76101346251994
+ENT kettle,DEFAULT,Raj,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Raj,0,61.76101346251994
+Cartilage rib,DEFAULT,Raj,0,61.76101346251994
+Blue nasal splints,DEFAULT,Raj,0,61.76101346251994
+Sodium Chloride,DEFAULT,Raj,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 3-0,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+1/2 inch Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Medtronic Rhinoplasty Tray,DEFAULT,Standardized,1,61.77099728356744
+Bipolar Forcep & Cable ENT,DEFAULT,Standardized,1,61.77099728356744
+Soft tissue pack,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Vicryl rapide 4-0,DEFAULT,Standardized,1,61.77099728356744
+Syringe 10ml,DEFAULT,Standardized,1,61.77099728356744
+Thermoplastic splint,DEFAULT,Standardized,1,61.77099728356744
+ENT kettle,DEFAULT,Standardized,1,61.77099728356744
+Tutoplast Fascia Lata,DEFAULT,Standardized,1,61.77099728356744
+Cartilage rib,DEFAULT,Standardized,1,61.77099728356744
+Blue nasal splints,DEFAULT,Standardized,1,61.77099728356744
+Sodium Chloride,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Archana,0,61.76101346251994
+Silk suture 3-0,DEFAULT,Archana,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Archana,0,61.76101346251994
+Diathermy machine,DEFAULT,Archana,0,61.76101346251994
+Dental syringe,DEFAULT,Archana,0,61.76101346251994
+Dental needle,DEFAULT,Archana,0,61.76101346251994
+Blue gauze,DEFAULT,Archana,0,61.76101346251994
+6 Fraiser sucker,ADDED,Archana,0,61.765311757022225
+Headlights,DEFAULT,Archana,0,61.76101346251994
+Suction device,DEFAULT,Archana,0,61.76101346251994
+1/2 inch Steri-strips,DEFAULT,Archana,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Archana,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Archana,0,61.76101346251994
+Soft tissue pack,DEFAULT,Archana,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Archana,0,61.76101346251994
+Vicryl rapide 4-0,DEFAULT,Archana,0,61.76101346251994
+Syringe 10ml,DEFAULT,Archana,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Archana,0,61.76101346251994
+Gentamicin solution,ADDED,Archana,0,61.765311757022225
+ENT kettle,DEFAULT,Archana,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Archana,0,61.76101346251994
+Cartilage rib,DEFAULT,Archana,0,61.76101346251994
+Blue nasal splints,DEFAULT,Archana,0,61.76101346251994
+Sodium Chloride,DEFAULT,Archana,0,61.76101346251994
+15 Blade,DEFAULT,Bilal,0,61.76101346251994
+Silk suture 3-0,DEFAULT,Bilal,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Bilal,0,61.76101346251994
+Diathermy machine,DEFAULT,Bilal,0,61.76101346251994
+Dental syringe,DEFAULT,Bilal,0,61.76101346251994
+Dental needle,DEFAULT,Bilal,0,61.76101346251994
+Blue gauze,DEFAULT,Bilal,0,61.76101346251994
+6 Fraiser sucker,ADDED,Bilal,0,61.765311757022225
+Headlights,DEFAULT,Bilal,0,61.76101346251994
+Suction device,DEFAULT,Bilal,0,61.76101346251994
+1/2 inch Steri-strips,DEFAULT,Bilal,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Bilal,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Bilal,0,61.76101346251994
+Soft tissue pack,DEFAULT,Bilal,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Bilal,0,61.76101346251994
+Vicryl rapide 4-0,DEFAULT,Bilal,0,61.76101346251994
+Syringe 10ml,DEFAULT,Bilal,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Bilal,0,61.76101346251994
+Mr Woolford’s Rhinoplasty Extras Tray,ADDED,Bilal,0,61.765311757022225
+ENT kettle,DEFAULT,Bilal,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Bilal,0,61.76101346251994
+Cartilage rib,DEFAULT,Bilal,0,61.76101346251994
+Blue nasal splints,DEFAULT,Bilal,0,61.76101346251994
+Sodium Chloride,DEFAULT,Bilal,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Raj,0,61.76101346251994
+15 Blade,DEFAULT,Raj,0,61.76101346251994
+Silk suture 3-0,DEFAULT,Raj,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Raj,0,61.76101346251994
+Diathermy machine,DEFAULT,Raj,0,61.76101346251994
+Dental syringe,DEFAULT,Raj,0,61.76101346251994
+Dental needle,DEFAULT,Raj,0,61.76101346251994
+Blue gauze,DEFAULT,Raj,0,61.76101346251994
+Headlights,ADDED,Raj,0,61.765311757022225
+Suction device,DEFAULT,Raj,0,61.76101346251994
+1/2 inch Steri-strips,DEFAULT,Raj,0,61.76101346251994
+Medtronic Rhinoplasty Tray,DEFAULT,Raj,0,61.76101346251994
+Bipolar Forcep & Cable ENT,DEFAULT,Raj,0,61.76101346251994
+Soft tissue pack,DEFAULT,Raj,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Raj,0,61.76101346251994
+Vicryl rapide 4-0,DEFAULT,Raj,0,61.76101346251994
+Syringe 10ml,DEFAULT,Raj,0,61.76101346251994
+Thermoplastic splint,DEFAULT,Raj,0,61.76101346251994
+ENT kettle,DEFAULT,Raj,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Raj,0,61.76101346251994
+Cartilage rib,DEFAULT,Raj,0,61.76101346251994
+Blue nasal splints,DEFAULT,Raj,0,61.76101346251994
+Sodium Chloride,DEFAULT,Raj,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl undyed,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Pledgets/lamis,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mat,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Soft Tissue tray,DEFAULT,Standardized,1,61.77099728356744
+Thyroid tray,DEFAULT,Standardized,1,61.77099728356744
+Small ligaclips,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl ties,DEFAULT,Standardized,1,61.77099728356744
+4-0 monocryl,DEFAULT,Standardized,1,42.49807999117479
+Bupivacaine 0.25% with Adrenaline,DEFAULT,Standardized,1,61.770997283567596
+Yankauer sucker,DEFAULT,Standardized,1,61.770997283567596
+Medium Ligaclips,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Antonia,0,61.76101346251994
+Small drapes,DEFAULT,Antonia,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Antonia,0,61.76101346251994
+10 Blade,DEFAULT,Antonia,0,61.76101346251994
+3-0 Vicryl undyed,DEFAULT,Antonia,0,61.76101346251994
+Diathermy machine,DEFAULT,Antonia,0,61.76101346251994
+4x4 Pack,DEFAULT,Antonia,0,61.76101346251994
+Suction tubing,DEFAULT,Antonia,0,61.76101346251994
+Pledgets/lamis,DEFAULT,Antonia,0,61.76101346251994
+Small surgicel 5x7.5cm,ADDED,Antonia,0,61.765311757022225
+Sharps box,DEFAULT,Antonia,0,61.76101346251994
+Receivers and gallipots,DEFAULT,Antonia,0,61.76101346251994
+Light handle,DEFAULT,Antonia,0,61.76101346251994
+Suction device,DEFAULT,Antonia,0,61.76101346251994
+Magnetic mat,DEFAULT,Antonia,0,61.76101346251994
+Trolley covers,DEFAULT,Antonia,0,61.76101346251994
+Steri-strips,DEFAULT,Antonia,0,61.76101346251994
+Soft Tissue tray,DEFAULT,Antonia,0,61.76101346251994
+Thyroid tray,DEFAULT,Antonia,0,61.76101346251994
+Small ligaclips,DEFAULT,Antonia,0,61.76101346251994
+2-0 Vicryl ties,DEFAULT,Antonia,0,61.76101346251994
+4-0 monocryl,DEFAULT,Antonia,0,42.48809617012695
+Bupivacaine 0.25% with Adrenaline,DEFAULT,Antonia,0,61.76101346251994
+Yankauer sucker,DEFAULT,Antonia,0,61.76101346251994
+Medium Ligaclips,DEFAULT,Antonia,0,61.76101346251994
+Blue fish hook,ADDED,Antonia,0,61.765311757022225
+Harmonic Blue tray,ADDED,Antonia,0,61.765311757022225
+Harmonic console,ADDED,Antonia,0,61.765311757022225
+Large drapes,DEFAULT,Sean,0,61.76101346251994
+Small drapes,DEFAULT,Sean,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Sean,0,61.76101346251994
+10 Blade,DEFAULT,Sean,0,61.76101346251994
+3-0 Vicryl undyed,DEFAULT,Sean,0,61.76101346251994
+Diathermy machine,DEFAULT,Sean,0,61.76101346251994
+4x4 Pack,DEFAULT,Sean,0,61.76101346251994
+Suction tubing,DEFAULT,Sean,0,61.76101346251994
+Pledgets/lamis,DEFAULT,Sean,0,61.76101346251994
+Sharps box,DEFAULT,Sean,0,61.76101346251994
+Receivers and gallipots,DEFAULT,Sean,0,61.76101346251994
+Light handle,DEFAULT,Sean,0,61.76101346251994
+Suction device,DEFAULT,Sean,0,61.76101346251994
+Magnetic mat,DEFAULT,Sean,0,61.76101346251994
+Trolley covers,DEFAULT,Sean,0,61.76101346251994
+Steri-strips,DEFAULT,Sean,0,61.76101346251994
+Soft Tissue tray,DEFAULT,Sean,0,61.76101346251994
+Thyroid tray,DEFAULT,Sean,0,61.76101346251994
+Small ligaclips,DEFAULT,Sean,0,61.76101346251994
+2-0 Vicryl ties,DEFAULT,Sean,0,61.76101346251994
+2-0 Vicryl ties,ADDED,Sean,0,61.765311757022225
+4-0 monocryl,DEFAULT,Sean,0,42.48809617012695
+Bupivacaine 0.25% with Adrenaline,DEFAULT,Sean,0,61.76101346251994
+Yankauer sucker,DEFAULT,Sean,0,61.76101346251994
+Medium Ligaclips,DEFAULT,Sean,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Small opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 2-0,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Perforator drill piece,DEFAULT,Standardized,1,61.77099728356744
+Codman Bactiseal EVD catheter,DEFAULT,Standardized,1,61.77099728356744
+EVD drainage bag,DEFAULT,Standardized,1,61.77099728356744
+2-0 silk ties,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Electric drill console,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Small surgicel 50x70mm,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+McCulloch Retractors Tray,DEFAULT,Standardized,1,61.77099728356744
+Disposable bipolar,DEFAULT,Standardized,1,61.77099728356744
+1-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ console,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Angled Bone Curettes,DEFAULT,Standardized,1,61.77099728356744
+Osteotomes,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Ahmed,0,61.76101346251994
+Large drapes,DEFAULT,Ahmed,0,61.76101346251994
+Small drapes,DEFAULT,Ahmed,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Ahmed,0,61.76101346251994
+Blade 10,DEFAULT,Ahmed,0,61.76101346251994
+Blade 15,DEFAULT,Ahmed,0,61.76101346251994
+2-0 Vicryl,DEFAULT,Ahmed,0,61.76101346251994
+Microscope,DEFAULT,Ahmed,0,61.76101346251994
+Laminectomy Spinal tray,DEFAULT,Ahmed,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,Ahmed,0,61.76101346251994
+Small square patties,DEFAULT,Ahmed,0,61.76101346251994
+Small surgicel 50x70mm,DEFAULT,Ahmed,0,61.76101346251994
+Bone wax,DEFAULT,Ahmed,0,61.76101346251994
+McCulloch Retractors Tray,DEFAULT,Ahmed,0,61.76101346251994
+Disposable bipolar,DEFAULT,Ahmed,0,61.76101346251994
+1-0 Vicryl,DEFAULT,Ahmed,0,61.76101346251994
+Microscope drape,DEFAULT,Ahmed,0,61.76101346251994
+Periosteal elevators,ADDED,Ahmed,0,61.765311757022225
+Pneumatic drill,ADDED,Ahmed,0,61.765311757022225
+MR8 3mm cutting burr (purple),ADDED,Ahmed,0,61.765311757022225
+Pneumatic drill foot pedal,ADDED,Ahmed,0,61.765311757022225
+Spinal pack,DEFAULT,Jeremy,0,61.76101346251994
+Large drapes,DEFAULT,Jeremy,0,61.76101346251994
+Small drapes,DEFAULT,Jeremy,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Jeremy,0,61.76101346251994
+Blade 10,DEFAULT,Jeremy,0,61.76101346251994
+Blade 15,DEFAULT,Jeremy,0,61.76101346251994
+2-0 Vicryl,DEFAULT,Jeremy,0,61.76101346251994
+Microscope,DEFAULT,Jeremy,0,61.76101346251994
+Electric drill console,DEFAULT,Jeremy,0,61.76101346251994
+Laminectomy Spinal tray,DEFAULT,Jeremy,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,Jeremy,0,61.76101346251994
+Small square patties,DEFAULT,Jeremy,0,61.76101346251994
+Small surgicel 50x70mm,DEFAULT,Jeremy,0,61.76101346251994
+Bone wax,DEFAULT,Jeremy,0,61.76101346251994
+McCulloch Retractors Tray,DEFAULT,Jeremy,0,61.76101346251994
+Disposable bipolar,DEFAULT,Jeremy,0,61.76101346251994
+1-0 Vicryl,DEFAULT,Jeremy,0,61.76101346251994
+Microscope drape,DEFAULT,Jeremy,0,61.76101346251994
+Osteotomes,DEFAULT,Jeremy,0,61.76101346251994
+Jones Flap,ADDED,Jeremy,0,61.765311757022225
+MR8 drill,DEFAULT,Jeremy,0,61.76101346251994
+MR8 3mm matchstick drill (purple),DEFAULT,Jeremy,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Mercian Curved scissors,DEFAULT,Standardized,1,61.77099728356744
+Mercian Straight scissors,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis cable,DEFAULT,Standardized,1,61.77099728356744
+Universal Screwdriver,DEFAULT,Standardized,1,61.770997283567596
+Neuro tubing,DEFAULT,Standardized,1,61.770997283567596
+Micro patties,DEFAULT,Standardized,1,61.770997283567596
+Large square patties,DEFAULT,Standardized,1,61.77099728356744
+Codman strips,DEFAULT,Standardized,1,61.77099728356744
+1-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Budde Halo,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Leggings,DEFAULT,Standardized,1,61.77099728356744
+12x12 Pack,DEFAULT,Standardized,1,61.77099728356744
+Brackman sucker,DEFAULT,Standardized,1,61.77099728356744
+Brain retractor 10mm,DEFAULT,Standardized,1,61.77099728356744
+Proper surgicel,DEFAULT,Standardized,1,61.77099728356744
+Craniotome cutter,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis forceps,DEFAULT,Standardized,1,61.77099728356744
+Black chair,DEFAULT,Standardized,1,61.77099728356744
+Duplo tip,DEFAULT,Standardized,1,61.77099728356744
+Tisseel,DEFAULT,Standardized,1,61.77099728356744
+Posterior Fossa Retractors,DEFAULT,Standardized,1,61.77099728356744
+Cervical upcuts,DEFAULT,Standardized,1,61.77099728356744
+Bard PTFE Felt,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Yellow fish hook,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl for dura,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+S2 drill,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 1L,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Silastic sheet 0.13mm,DEFAULT,Standardized,1,61.77099728356744
+Blue/white facial nerve stimulator,DEFAULT,Standardized,1,61.77099728356744
+Packs of red/green/black facial nerve needles,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Neurosign nerve stimulator monitor,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear One,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear Micro,DEFAULT,Standardized,1,61.77099728356744
+Major Ear pack,DEFAULT,Standardized,1,61.77099728356744
+Zollner fine suction 6fg,DEFAULT,Standardized,1,61.77099728356744
+Large cotton wool balls,DEFAULT,Standardized,1,61.77099728356744
+3-0 Monocryl undyed,DEFAULT,Standardized,1,61.77099728356744
+Alto cutter,DEFAULT,Standardized,1,61.77099728356744
+Wool pad,DEFAULT,Standardized,1,61.77099728356744
+S2 drill irrigation,DEFAULT,Standardized,1,61.77099728356744
+½ inch ribbon gauze,DEFAULT,Standardized,1,11.50036190168872
+S2 drill console,DEFAULT,Standardized,1,61.77099728356744
+Otocomb ointment,DEFAULT,Standardized,1,61.77099728356744
+Adrenaline 1:1000,DEFAULT,Standardized,1,61.77099728356744
+Ossiculo prothesis,DEFAULT,Standardized,1,61.77099728356744
+S2 5.0mm PRECISION ROUND,DEFAULT,Standardized,1,61.77099728356744
+S2 4.0mm PRECISION ROUND,DEFAULT,Standardized,1,61.77099728356744
+S2 4.0mm COARSE DIAMOND,DEFAULT,Standardized,1,61.77099728356744
+S2 3.0mm COARSE DIAMOND,DEFAULT,Standardized,1,61.77099728356744
+S2 2.0mm COARSE DIAMOND,DEFAULT,Standardized,1,61.77099728356744
+S2 6.0mm PRECISION ROUND,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Simon,0,61.76101346251994
+2-0 Vicryl,DEFAULT,Simon,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Simon,0,61.76101346251994
+Microscope,DEFAULT,Simon,0,61.76101346251994
+Diathermy machine,DEFAULT,Simon,0,61.76101346251994
+Dental syringe,DEFAULT,Simon,0,61.76101346251994
+Dental needle,DEFAULT,Simon,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Simon,0,61.76101346251994
+S2 drill,DEFAULT,Simon,0,61.76101346251994
+Bag Normal Saline 1L,DEFAULT,Simon,0,61.76101346251994
+Suction device,DEFAULT,Simon,0,61.76101346251994
+Neuro tubing,DEFAULT,Simon,0,61.76101346251994
+Craniotomy drape,DEFAULT,Simon,0,61.76101346251994
+Small absorbent drapes,DEFAULT,Simon,0,61.76101346251994
+Microscope drape,DEFAULT,Simon,0,61.76101346251994
+Silastic sheet 0.13mm,DEFAULT,Simon,0,61.76101346251994
+Blue/white facial nerve stimulator,DEFAULT,Simon,0,61.76101346251994
+Packs of red/green/black facial nerve needles,DEFAULT,Simon,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Simon,0,61.76101346251994
+Neurosign nerve stimulator monitor,DEFAULT,Simon,0,61.76101346251994
+Middle Ear One,DEFAULT,Simon,0,61.76101346251994
+Middle Ear Micro,DEFAULT,Simon,0,61.76101346251994
+Major Ear pack,DEFAULT,Simon,0,61.76101346251994
+Zollner fine suction 6fg,DEFAULT,Simon,0,61.76101346251994
+Large cotton wool balls,DEFAULT,Simon,0,61.76101346251994
+3-0 Monocryl undyed,DEFAULT,Simon,0,61.76101346251994
+3-0 Monocryl undyed,ADDED,Simon,0,61.765311757022225
+Alto cutter,DEFAULT,Simon,0,61.76101346251994
+Wool pad,DEFAULT,Simon,0,61.76101346251994
+S2 drill irrigation,DEFAULT,Simon,0,61.76101346251994
+½ inch ribbon gauze,DEFAULT,Simon,0,11.490378080641221
+S2 drill console,DEFAULT,Simon,0,61.76101346251994
+Otocomb ointment,DEFAULT,Simon,0,61.76101346251994
+Adrenaline 1:1000,DEFAULT,Simon,0,61.76101346251994
+Ossiculo prothesis,DEFAULT,Simon,0,61.76101346251994
+S2 5.0mm PRECISION ROUND,DEFAULT,Simon,0,61.76101346251994
+S2 4.0mm PRECISION ROUND,DEFAULT,Simon,0,61.76101346251994
+S2 4.0mm COARSE DIAMOND,DEFAULT,Simon,0,61.76101346251994
+S2 3.0mm COARSE DIAMOND,DEFAULT,Simon,0,61.76101346251994
+S2 2.0mm COARSE DIAMOND,DEFAULT,Simon,0,61.76101346251994
+S2 6.0mm PRECISION ROUND,DEFAULT,Simon,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Endoscopic Turbinoplasty tray,DEFAULT,Standardized,1,61.77099728356744
+Olympus Microdebrider,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Basic camera drape,DEFAULT,Standardized,1,61.77099728356744
+Diego Elite Tube set,DEFAULT,Standardized,1,61.77099728356744
+Debrider blade 4mm,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 500ml,DEFAULT,Standardized,1,61.77099728356744
+ENT DLTB stack system,DEFAULT,Standardized,1,61.77099728356744
+Gyrus console,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Trolley cover,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Archana,0,61.76101346251994
+Small drapes,DEFAULT,Archana,0,61.76101346251994
+9 Fraiser sucker,ADDED,Archana,0,61.765311757022225
+15 Blade,DEFAULT,Archana,0,61.76101346251994
+Diathermy machine,DEFAULT,Archana,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Archana,0,61.76101346251994
+Bowl pack,DEFAULT,Archana,0,61.76101346251994
+Dental syringe,DEFAULT,Archana,0,61.76101346251994
+Dental needle,DEFAULT,Archana,0,61.76101346251994
+4x4 Pack,DEFAULT,Archana,0,61.76101346251994
+Medium long patties,DEFAULT,Archana,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Archana,0,61.76101346251994
+Suction tubing,DEFAULT,Archana,0,61.76101346251994
+Basic camera drape,DEFAULT,Archana,0,61.76101346251994
+Debrider blade 4mm,DEFAULT,Archana,0,61.76101346251994
+Blue gauze,DEFAULT,Archana,0,61.76101346251994
+Anti-mist,DEFAULT,Archana,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Archana,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Archana,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,ADDED,Archana,0,61.765311757022225
+Electric drill console,ADDED,Archana,0,61.765311757022225
+Turbinate Blade 2mm,ADDED,Archana,0,61.765311757022225
+Suction device,DEFAULT,Archana,0,61.76101346251994
+Trolley cover,DEFAULT,Archana,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Archana,0,61.76101346251994
+Turbinate Blade 2.9mm,ADDED,Archana,0,61.765311757022225
+Large drapes,DEFAULT,Bilal,0,61.76101346251994
+Small drapes,DEFAULT,Bilal,0,61.76101346251994
+9 Fraiser sucker,ADDED,Bilal,0,61.765311757022225
+15 Blade,DEFAULT,Bilal,0,61.76101346251994
+Diathermy machine,DEFAULT,Bilal,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Bilal,0,61.76101346251994
+Bowl pack,DEFAULT,Bilal,0,61.7610134625201
+Dental syringe,DEFAULT,Bilal,0,61.7610134625201
+Dental needle,DEFAULT,Bilal,0,61.7610134625201
+4x4 Pack,DEFAULT,Bilal,0,61.76101346251994
+Medium long patties,DEFAULT,Bilal,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Bilal,0,61.76101346251994
+Suction tubing,DEFAULT,Bilal,0,61.76101346251994
+Basic camera drape,DEFAULT,Bilal,0,61.76101346251994
+Blue gauze,DEFAULT,Bilal,0,61.76101346251994
+Anti-mist,DEFAULT,Bilal,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Bilal,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Bilal,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,ADDED,Bilal,0,61.765311757022225
+Electric drill console,ADDED,Bilal,0,61.765311757022225
+Turbinate Blade 2mm,ADDED,Bilal,0,61.765311757022225
+Suction device,DEFAULT,Bilal,0,61.76101346251994
+Trolley cover,DEFAULT,Bilal,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Bilal,0,61.76101346251994
+Turbinate Blade 2.9mm,ADDED,Bilal,0,61.765311757022225
+Large drapes,DEFAULT,Chai,0,61.76101346251994
+Small drapes,DEFAULT,Chai,0,61.76101346251994
+9 Fraiser sucker,ADDED,Chai,0,61.765311757022225
+15 Blade,DEFAULT,Chai,0,61.76101346251994
+Diathermy machine,DEFAULT,Chai,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Chai,0,61.76101346251994
+Olympus Microdebrider,DEFAULT,Chai,0,61.76101346251994
+Bowl pack,DEFAULT,Chai,0,61.76101346251994
+Dental syringe,DEFAULT,Chai,0,61.76101346251994
+Dental needle,DEFAULT,Chai,0,61.76101346251994
+4x4 Pack,DEFAULT,Chai,0,61.76101346251994
+Medium long patties,DEFAULT,Chai,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Chai,0,61.76101346251994
+Suction tubing,DEFAULT,Chai,0,61.76101346251994
+Basic camera drape,DEFAULT,Chai,0,61.76101346251994
+Diego Elite Tube set,DEFAULT,Chai,0,61.76101346251994
+Debrider blade 4mm,DEFAULT,Chai,0,61.76101346251994
+Blue gauze,DEFAULT,Chai,0,61.76101346251994
+Anti-mist,DEFAULT,Chai,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Chai,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Chai,0,61.76101346251994
+Gyrus console,ADDED,Chai,0,61.765311757022225
+Suction device,DEFAULT,Chai,0,61.76101346251994
+Trolley cover,DEFAULT,Chai,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Chai,0,61.76101346251994
+Large drapes,DEFAULT,Corina,0,61.76101346251994
+Small drapes,DEFAULT,Corina,0,61.76101346251994
+9 Fraiser sucker,ADDED,Corina,0,61.765311757022225
+15 Blade,DEFAULT,Corina,0,61.76101346251994
+Diathermy machine,DEFAULT,Corina,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Corina,0,61.76101346251994
+Olympus Microdebrider,DEFAULT,Corina,0,61.76101346251994
+Bowl pack,DEFAULT,Corina,0,61.76101346251994
+Dental syringe,DEFAULT,Corina,0,61.76101346251994
+Dental needle,DEFAULT,Corina,0,61.76101346251994
+4x4 Pack,DEFAULT,Corina,0,61.76101346251994
+Medium long patties,DEFAULT,Corina,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Corina,0,61.76101346251994
+Suction tubing,DEFAULT,Corina,0,61.76101346251994
+Basic camera drape,DEFAULT,Corina,0,61.76101346251994
+Diego Elite Tube set,DEFAULT,Corina,0,61.76101346251994
+Debrider blade 4mm,DEFAULT,Corina,0,61.76101346251994
+Blue gauze,DEFAULT,Corina,0,61.76101346251994
+Anti-mist,DEFAULT,Corina,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Corina,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Corina,0,61.76101346251994
+Gyrus console,ADDED,Corina,0,61.765311757022225
+Suction device,DEFAULT,Corina,0,61.76101346251994
+Trolley cover,DEFAULT,Corina,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Corina,0,61.76101346251994
+Large drapes,DEFAULT,Raj,0,61.76101346251994
+Small drapes,DEFAULT,Raj,0,61.76101346251994
+9 Fraiser sucker,ADDED,Raj,0,61.765311757022225
+15 Blade,DEFAULT,Raj,0,61.76101346251994
+Diathermy machine,DEFAULT,Raj,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Raj,0,61.76101346251994
+Bowl pack,DEFAULT,Raj,0,61.76101346251994
+Dental syringe,DEFAULT,Raj,0,61.76101346251994
+Dental needle,DEFAULT,Raj,0,61.76101346251994
+4x4 Pack,DEFAULT,Raj,0,61.76101346251994
+Medium long patties,DEFAULT,Raj,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Raj,0,61.76101346251994
+Suction tubing,DEFAULT,Raj,0,61.76101346251994
+Basic camera drape,DEFAULT,Raj,0,61.76101346251994
+Blue gauze,DEFAULT,Raj,0,61.76101346251994
+Anti-mist,DEFAULT,Raj,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Raj,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Raj,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,ADDED,Raj,0,61.765311757022225
+Electric drill console,ADDED,Raj,0,61.765311757022225
+Turbinate Blade 2mm,ADDED,Raj,0,61.765311757022225
+Suction device,DEFAULT,Raj,0,61.76101346251994
+Trolley cover,DEFAULT,Raj,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Raj,0,61.76101346251994
+Turbinate Blade 2.9mm,ADDED,Raj,0,61.765311757022225
+Large drapes,DEFAULT,Rohini,0,61.76101346251994
+Small drapes,DEFAULT,Rohini,0,61.76101346251994
+9 Fraiser sucker,ADDED,Rohini,0,61.765311757022225
+15 Blade,DEFAULT,Rohini,0,61.76101346251994
+Diathermy machine,DEFAULT,Rohini,0,61.76101346251994
+Endoscopic Turbinoplasty tray,DEFAULT,Rohini,0,61.76101346251994
+Olympus Microdebrider,ADDED,Rohini,0,61.765311757022225
+Bowl pack,DEFAULT,Rohini,0,61.76101346251994
+Dental syringe,DEFAULT,Rohini,0,61.76101346251994
+Dental needle,DEFAULT,Rohini,0,61.76101346251994
+4x4 Pack,DEFAULT,Rohini,0,61.76101346251994
+Medium long patties,DEFAULT,Rohini,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Rohini,0,61.76101346251994
+Suction tubing,DEFAULT,Rohini,0,61.76101346251994
+Basic camera drape,DEFAULT,Rohini,0,61.76101346251994
+Diego Elite Tube set,DEFAULT,Rohini,0,61.76101346251994
+Debrider blade 4mm,DEFAULT,Rohini,0,61.76101346251994
+Blue gauze,DEFAULT,Rohini,0,61.76101346251994
+Anti-mist,DEFAULT,Rohini,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Rohini,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Rohini,0,61.76101346251994
+Gyrus console,ADDED,Rohini,0,61.765311757022225
+Suction device,DEFAULT,Rohini,0,61.76101346251994
+Trolley cover,DEFAULT,Rohini,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Rohini,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Tonsil swabs,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Black bronchial suction catheter,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Tonsil Tray,DEFAULT,Standardized,1,61.77099728356744
+Blue cover for Boyle Davis mouth gag,DEFAULT,Standardized,1,61.77099728356744
+Number 1 silk ties on reel,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Tonsil swabs,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Black bronchial suction catheter,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Tonsil Tray,DEFAULT,Standardized,1,61.77099728356744
+Blue cover for Boyle Davis mouth gag,DEFAULT,Standardized,1,61.77099728356744
+Coblation wand EVAC 70 XTRA HP,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 1L,DEFAULT,Standardized,1,61.77099728356744
+Coblation machine and pedal,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Aquagel,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Wool pad,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Microlayrngoscope tray,DEFAULT,Standardized,1,61.77099728356744
+Microlayrngeal sucker 27cm,DEFAULT,Standardized,1,61.77099728356744
+Yellow gum shield,DEFAULT,Standardized,1,61.77099728356744
+Histology pot with yellow lid,DEFAULT,Standardized,1,61.77099728356744
+Histology form and sticker,DEFAULT,Standardized,1,61.77099728356744
+Light source,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Aquagel,DEFAULT,Standardized,1,61.770997283567596
+Suction device,DEFAULT,Standardized,1,61.770997283567596
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Yellow gum shield,DEFAULT,Standardized,1,61.77099728356744
+Histology pot with yellow lid,DEFAULT,Standardized,1,61.77099728356744
+Histology form and sticker,DEFAULT,Standardized,1,61.77099728356744
+Light source,DEFAULT,Standardized,1,61.77099728356744
+New Laryngoscope tray,DEFAULT,Standardized,1,61.77099728356744
+Laryngeal sucker 35cm,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+4-0 Vicryl rapide,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear One,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear Micro,DEFAULT,Standardized,1,61.77099728356744
+Major Ear pack,DEFAULT,Standardized,1,61.77099728356744
+Zoellner fine suction 6fg,DEFAULT,Standardized,1,61.77099728356744
+Large cotton wool balls,DEFAULT,Standardized,1,61.77099728356744
+Pentero microscope,DEFAULT,Standardized,1,61.77099728356744
+Micro cotton wool balls,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Rohini,0,61.76101346251994
+Diathermy machine,DEFAULT,Rohini,0,61.76101346251994
+Dental syringe,DEFAULT,Rohini,0,61.76101346251994
+Dental needle,DEFAULT,Rohini,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Rohini,0,61.76101346251994
+Suction device,DEFAULT,Rohini,0,61.76101346251994
+Micro patties,DEFAULT,Rohini,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Rohini,0,61.76101346251994
+4-0 Vicryl rapide,DEFAULT,Rohini,0,61.76101346251994
+4-0 Vicryl rapide,ADDED,Rohini,0,61.765311757022225
+Middle Ear One,DEFAULT,Rohini,0,61.76101346251994
+Middle Ear Micro,DEFAULT,Rohini,0,61.76101346251994
+Major Ear pack,DEFAULT,Rohini,0,61.76101346251994
+Zoellner fine suction 6fg,DEFAULT,Rohini,0,61.76101346251994
+Large cotton wool balls,DEFAULT,Rohini,0,61.76101346251994
+Pentero microscope,DEFAULT,Rohini,0,61.76101346251994
+Micro cotton wool balls,DEFAULT,Rohini,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+Electric drill console,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Syringe 20ml,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Facial nerve stimulator probe,DEFAULT,Standardized,1,61.77099728356744
+Facial nerve needles packs,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Spongostan,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear One,DEFAULT,Standardized,1,61.77099728356744
+Middle Ear Micro,DEFAULT,Standardized,1,61.77099728356744
+Major Ear pack,DEFAULT,Standardized,1,61.77099728356744
+Zoellner fine suction 6fg,DEFAULT,Standardized,1,61.77099728356744
+Large cotton wool balls,DEFAULT,Standardized,1,61.77099728356744
+Pentero microscope,DEFAULT,Standardized,1,61.77099728356744
+Special Stapes tray,DEFAULT,Standardized,1,61.77099728356744
+Skeeter Drill tray,DEFAULT,Standardized,1,61.77099728356744
+Adrenaline,DEFAULT,Standardized,1,61.77099728356744
+Oto Flex Round diamond burr,DEFAULT,Standardized,1,61.77099728356744
+Neurosign 100 console,DEFAULT,Standardized,1,61.77099728356744
+Dexamethasone,DEFAULT,Standardized,1,61.77099728356744
+Syringe 2ml with blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Fine end suction tips,DEFAULT,Standardized,1,61.77099728356744
+Stapedectomy implants,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Simon,0,61.76101346251994
+Diathermy machine,DEFAULT,Simon,0,61.76101346251994
+Dental syringe,DEFAULT,Simon,0,61.76101346251994
+Dental needle,DEFAULT,Simon,0,61.76101346251994
+Electric drill console,DEFAULT,Simon,0,61.76101346251994
+Blunt needle,DEFAULT,Simon,0,61.76101346251994
+Syringe 20ml,DEFAULT,Simon,0,61.76101346251994
+Suction device,DEFAULT,Simon,0,61.76101346251994
+Neuro tubing,DEFAULT,Simon,0,61.76101346251994
+Facial nerve stimulator probe,DEFAULT,Simon,0,61.76101346251994
+Facial nerve needles packs,DEFAULT,Simon,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Simon,0,61.76101346251994
+Spongostan,DEFAULT,Simon,0,61.76101346251994
+Middle Ear One,DEFAULT,Simon,0,61.76101346251994
+Middle Ear Micro,DEFAULT,Simon,0,61.76101346251994
+Major Ear pack,DEFAULT,Simon,0,61.76101346251994
+Zoellner fine suction 6fg,DEFAULT,Simon,0,61.76101346251994
+Large cotton wool balls,DEFAULT,Simon,0,61.76101346251994
+Pentero microscope,DEFAULT,Simon,0,61.76101346251994
+Special Stapes tray,DEFAULT,Simon,0,61.76101346251994
+Skeeter Drill tray,DEFAULT,Simon,0,61.76101346251994
+Adrenaline,DEFAULT,Simon,0,61.76101346251994
+Oto Flex Round diamond burr,DEFAULT,Simon,0,61.76101346251994
+Oto Flex Round diamond burr,ADDED,Simon,0,61.765311757022225
+Neurosign 100 console,DEFAULT,Simon,0,61.76101346251994
+Dexamethasone,DEFAULT,Simon,0,61.76101346251994
+Syringe 2ml with blunt needle,DEFAULT,Simon,0,61.76101346251994
+Fine end suction tips,DEFAULT,Simon,0,61.76101346251994
+Stapedectomy implants,DEFAULT,Simon,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Small opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Sharps box Large,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Pack 12x12,DEFAULT,Standardized,1,61.77099728356744
+Medium opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Silk ties 2-0,DEFAULT,Standardized,1,61.77099728356744
+Single wrapped screwdrivers,DEFAULT,Standardized,1,61.77099728356744
+Screws 5mm,DEFAULT,Standardized,1,61.77099728356744
+S2 drill console,DEFAULT,Standardized,1,61.77099728356744
+Mini plates,DEFAULT,Standardized,1,61.77099728356744
+Leksell Micro System Basic Frame DBS,DEFAULT,Standardized,1,61.77099728356744
+Leksell Pins and Hex Wrench for DBS,DEFAULT,Standardized,1,61.77099728356744
+TPS drill,DEFAULT,Standardized,1,61.77099728356744
+Pattie board,DEFAULT,Standardized,1,61.77099728356744
+DBS Robot Arm,DEFAULT,Standardized,1,61.77099728356744
+Tool Adaptors for Standard Tool Holder,DEFAULT,Standardized,1,61.77099728356744
+Tool Adaptors 6.10mm,DEFAULT,Standardized,1,61.77099728356744
+Tool Adaptor 4.90mm,DEFAULT,Standardized,1,61.77099728356744
+Irrigation pouch,DEFAULT,Standardized,1,61.77099728356744
+Renishaw Sterile Drape,DEFAULT,Standardized,1,61.77099728356744
+MR8 5mm drill bit (yellow),DEFAULT,Standardized,1,61.77099728356744
+4.8mm drill bit,DEFAULT,Standardized,1,29.0213203791494
+6mm drill bit,DEFAULT,Standardized,1,23.355460694298017
+Renishaw Guide Tube Kit,DEFAULT,Standardized,1,61.77099728356744
+Dixi Coagulation Electrode,DEFAULT,Standardized,1,61.77099728356744
+Renishaw Instrument Guide Rod,DEFAULT,Standardized,1,61.77099728356744
+Ethilon 1-0,DEFAULT,Standardized,1,61.77099728356744
+SenSight Directional Lead Kit,DEFAULT,Standardized,1,61.77099728356744
+SenSight Extension Kit,DEFAULT,Standardized,1,61.77099728356744
+SenSight Depth Stop and Cranial Tunnel Kit,DEFAULT,Standardized,1,61.77099728356744
+SenSight Extension Tunneler Kit,DEFAULT,Standardized,1,61.77099728356744
+DBS Battery,DEFAULT,Standardized,1,61.77099728356744
+Ethilon 3-0,DEFAULT,Standardized,1,61.77099728356744
+Robot and computer,DEFAULT,Standardized,1,61.77099728356744
+TPS console,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+OPTIRAY 350 Contrast,DEFAULT,Standardized,1,61.77099728356744
+CT frame,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill tray,DEFAULT,Standardized,1,61.77099728356744
+DBS Robot Arm and Tool Adaptors Renishaw,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Bowl,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Jonathan,0,61.76101346251994
+Spinal pack,DEFAULT,Jonathan,0,61.76101346251994
+Large drapes,DEFAULT,Jonathan,0,61.76101346251994
+Small drapes,DEFAULT,Jonathan,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Jonathan,0,61.76101346251994
+Blade 10,DEFAULT,Jonathan,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Jonathan,0,61.76101346251994
+Skin clips,DEFAULT,Jonathan,0,61.76101346251994
+Small opsite dressing,DEFAULT,Jonathan,0,61.76101346251994
+Diathermy machine,DEFAULT,Jonathan,0,61.76101346251994
+Pack 4x4,DEFAULT,Jonathan,0,61.76101346251994
+Suction tubing,DEFAULT,Jonathan,0,61.76101346251994
+Bone wax,DEFAULT,Jonathan,0,61.7610134625201
+Sharps box Large,DEFAULT,Jonathan,0,61.7610134625201
+Suction device,DEFAULT,Jonathan,0,61.76101346251994
+Neuro tubing,DEFAULT,Jonathan,0,61.76101346251994
+Pack 12x12,DEFAULT,Jonathan,0,61.76101346251994
+Medium opsite dressing,DEFAULT,Jonathan,0,61.76101346251994
+Silk ties 2-0,DEFAULT,Jonathan,0,61.76101346251994
+Single wrapped screwdrivers,DEFAULT,Jonathan,0,61.76101346251994
+Screws 5mm,DEFAULT,Jonathan,0,61.76101346251994
+S2 drill console,DEFAULT,Jonathan,0,61.76101346251994
+Mini plates,DEFAULT,Jonathan,0,61.76101346251994
+Leksell Micro System Basic Frame DBS,DEFAULT,Jonathan,0,61.76101346251994
+Leksell Pins and Hex Wrench for DBS,DEFAULT,Jonathan,0,61.76101346251994
+TPS drill,DEFAULT,Jonathan,0,61.76101346251994
+Pattie board,DEFAULT,Jonathan,0,61.76101346251994
+DBS Robot Arm,DEFAULT,Jonathan,0,61.76101346251994
+Tool Adaptors for Standard Tool Holder,DEFAULT,Jonathan,0,61.76101346251994
+Tool Adaptors 6.10mm,DEFAULT,Jonathan,0,61.76101346251994
+Tool Adaptor 4.90mm,DEFAULT,Jonathan,0,61.76101346251994
+Irrigation pouch,DEFAULT,Jonathan,0,61.76101346251994
+Renishaw Sterile Drape,DEFAULT,Jonathan,0,61.76101346251994
+MR8 5mm drill bit (yellow),DEFAULT,Jonathan,0,61.76101346251994
+4.8mm drill bit,DEFAULT,Jonathan,0,29.011336558101902
+6mm drill bit,DEFAULT,Jonathan,0,23.34547687325052
+Renishaw Guide Tube Kit,DEFAULT,Jonathan,0,61.76101346251994
+Dixi Coagulation Electrode,DEFAULT,Jonathan,0,61.76101346251994
+Renishaw Instrument Guide Rod,DEFAULT,Jonathan,0,61.76101346251994
+Ethilon 1-0,DEFAULT,Jonathan,0,61.76101346251994
+SenSight Directional Lead Kit,DEFAULT,Jonathan,0,61.76101346251994
+SenSight Extension Kit,DEFAULT,Jonathan,0,61.76101346251994
+SenSight Depth Stop and Cranial Tunnel Kit,DEFAULT,Jonathan,0,61.76101346251994
+SenSight Extension Tunneler Kit,DEFAULT,Jonathan,0,61.76101346251994
+DBS Battery,DEFAULT,Jonathan,0,61.76101346251994
+Ethilon 3-0,DEFAULT,Jonathan,0,61.76101346251994
+Robot and computer,DEFAULT,Jonathan,0,61.76101346251994
+TPS console,DEFAULT,Jonathan,0,61.76101346251994
+MR8 drill console,DEFAULT,Jonathan,0,61.76101346251994
+OPTIRAY 350 Contrast,DEFAULT,Jonathan,0,61.76101346251994
+CT frame,DEFAULT,Jonathan,0,61.76101346251994
+SenSight Connector Plug,ADDED,Jonathan,0,61.765311757022225
+MR8 drill tray,DEFAULT,Jonathan,0,61.76101346251994
+DBS Robot Arm and Tool Adaptors Renishaw,DEFAULT,Jonathan,0,61.76101346251994
+Blue fish hook,DEFAULT,Jonathan,0,61.76101346251994
+Bowl,DEFAULT,Jonathan,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Plasma blade,DEFAULT,Standardized,1,61.77099728356744
+Aquamantys machine,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 2-0,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Percept PC,DEFAULT,Standardized,1,61.77099728356744
+Activa RC Battery,DEFAULT,Standardized,1,61.77099728356744
+Recharger Kit,DEFAULT,Standardized,1,61.77099728356744
+Recharger Drape,DEFAULT,Standardized,1,61.77099728356744
+Handset with Communicator PC,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Soft tissue,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 9,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+Medtronic M5 Microdebrider,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Blade 11,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Specimen jar,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Patties large square,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ console,DEFAULT,Standardized,1,61.77099728356744
+NU-KNIT,DEFAULT,Standardized,1,61.77099728356744
+Colorado needle long red,DEFAULT,Standardized,1,61.77099728356744
+Colorado needle long blue,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mats,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Large Chloraprep stick,DEFAULT,Standardized,1,61.77099728356744
+Tutoplast Fascia Lata,DEFAULT,Standardized,1,61.77099728356744
+Advanced Sinus Tray,DEFAULT,Standardized,1,61.77099728356744
+Pituitary Tumour Set One,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab 4 Pin Array,DEFAULT,Standardized,1,61.77099728356744
+Sinus Telescopes 4mm tray,DEFAULT,Standardized,1,61.77099728356744
+Miss Karabatsou's Ronguers,DEFAULT,Standardized,1,61.77099728356744
+Blue quick change camera drape,DEFAULT,Standardized,1,61.77099728356744
+Small gallipot,DEFAULT,Standardized,1,61.77099728356744
+Instrument pouch,DEFAULT,Standardized,1,61.77099728356744
+9 fenestrated sucker,DEFAULT,Standardized,1,82.12477026100778
+Duplo tip,DEFAULT,Standardized,1,61.77099728356744
+Nasopore,DEFAULT,Standardized,1,61.77099728356744
+50ml syringe,DEFAULT,Standardized,1,78.57383645066615
+Kwill,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab Balls,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 0 degree,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 30 degree,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 70 degree,DEFAULT,Standardized,1,61.77099728356744
+Tricut blade 4mm,DEFAULT,Standardized,1,61.77099728356744
+Transnasal skullbase burr 4mm,DEFAULT,Standardized,1,61.77099728356744
+Spongostan,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab boxes,DEFAULT,Standardized,1,61.77099728356744
+4K stack,DEFAULT,Standardized,1,61.77099728356744
+Tisseel,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab,DEFAULT,Standardized,1,61.77099728356744
+Monocryl 4-0,DEFAULT,Standardized,1,61.77099728356744
+Small dressing,DEFAULT,Standardized,1,61.77099728356744
+Micro doppler probe,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ tray,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ long tip,DEFAULT,Standardized,1,61.77099728356744
+Endoscopic bipolar,DEFAULT,Standardized,1,61.77099728356744
+12fg female foley catheters,DEFAULT,Standardized,1,83.57319561673032
+Rapid Rhino,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill tray,DEFAULT,Standardized,1,61.77099728356744
+KLS Extendable Instruments,DEFAULT,Standardized,1,61.77099728356744
+KLS Extra Handles Tray,DEFAULT,Standardized,1,61.77099728356744
+Transnasal skullbase burr 4.5 mm,DEFAULT,Standardized,1,61.77099728356744
+Soft tissue,DEFAULT,Omar,0,61.76101346251994
+Spinal pack,DEFAULT,Omar,0,61.76101346251994
+Large drapes,DEFAULT,Omar,0,61.76101346251994
+Small drapes,DEFAULT,Omar,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Omar,0,61.76101346251994
+Blade 10,DEFAULT,Omar,0,61.76101346251994
+2-0 Vicryl,ADDED,Omar,0,61.765311757022225
+Diathermy machine,DEFAULT,Omar,0,61.76101346251994
+Medium long patties,DEFAULT,Omar,0,61.76101346251994
+Suction tubing,DEFAULT,Omar,0,61.76101346251994
+Blue gauze,DEFAULT,Omar,0,61.76101346251994
+Anti-mist,DEFAULT,Omar,0,61.76101346251994
+Medtronic M5 Microdebrider,DEFAULT,Omar,0,61.76101346251994
+Small square patties,DEFAULT,Omar,0,61.76101346251994
+Bone wax,DEFAULT,Omar,0,61.76101346251994
+Blade 11,DEFAULT,Omar,0,61.76101346251994
+Suction device,DEFAULT,Omar,0,61.76101346251994
+Specimen jar,DEFAULT,Omar,0,61.76101346251994
+Micro patties,DEFAULT,Omar,0,61.76101346251994
+Patties large square,DEFAULT,Omar,0,61.76101346251994
+Sonopet IQ console,DEFAULT,Omar,0,61.76101346251994
+NU-KNIT,DEFAULT,Omar,0,61.76101346251994
+Colorado needle long red,DEFAULT,Omar,0,61.76101346251994
+Colorado needle long blue,DEFAULT,Omar,0,61.76101346251994
+Magnetic mats,DEFAULT,Omar,0,61.76101346251994
+MR8 drill,DEFAULT,Omar,0,61.76101346251994
+Floseal,DEFAULT,Omar,0,61.76101346251994
+Large Chloraprep stick,DEFAULT,Omar,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Omar,0,61.76101346251994
+Advanced Sinus Tray,DEFAULT,Omar,0,61.76101346251994
+Pituitary Tumour Set One,DEFAULT,Omar,0,61.76101346251994
+Brain Lab 4 Pin Array,DEFAULT,Omar,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Omar,0,61.76101346251994
+Miss Karabatsou's Ronguers,DEFAULT,Omar,0,61.76101346251994
+Blue quick change camera drape,DEFAULT,Omar,0,61.76101346251994
+Small gallipot,DEFAULT,Omar,0,61.76101346251994
+Instrument pouch,DEFAULT,Omar,0,61.76101346251994
+9 fenestrated sucker,DEFAULT,Omar,0,82.11478643996028
+Duplo tip,DEFAULT,Omar,0,61.76101346251994
+Nasopore,DEFAULT,Omar,0,61.76101346251994
+50ml syringe,DEFAULT,Omar,0,78.56385262961865
+Kwill,DEFAULT,Omar,0,61.76101346251994
+Brain Lab Balls,DEFAULT,Omar,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Omar,0,61.7610134625201
+Endoscrub 30 degree,DEFAULT,Omar,0,61.7610134625201
+Endoscrub 70 degree,DEFAULT,Omar,0,61.76101346251994
+Tricut blade 4mm,DEFAULT,Omar,0,61.76101346251994
+Transnasal skullbase burr 4mm,DEFAULT,Omar,0,61.76101346251994
+Spongostan,DEFAULT,Omar,0,61.76101346251994
+Brain Lab boxes,DEFAULT,Omar,0,61.76101346251994
+4K stack,DEFAULT,Omar,0,61.76101346251994
+Tisseel,DEFAULT,Omar,0,61.76101346251994
+Brain Lab,DEFAULT,Omar,0,61.76101346251994
+Monocryl 4-0,DEFAULT,Omar,0,61.76101346251994
+Small dressing,DEFAULT,Omar,0,61.76101346251994
+Micro doppler probe,DEFAULT,Omar,0,61.76101346251994
+Sonopet IQ tray,DEFAULT,Omar,0,61.76101346251994
+Sonopet IQ long tip,DEFAULT,Omar,0,61.76101346251994
+Endoscopic bipolar,DEFAULT,Omar,0,61.76101346251994
+12fg female foley catheters,DEFAULT,Omar,0,83.56321179568282
+Rapid Rhino,DEFAULT,Omar,0,61.76101346251994
+MR8 drill tray,DEFAULT,Omar,0,61.76101346251994
+KLS Extendable Instruments,DEFAULT,Omar,0,61.76101346251994
+KLS Extra Handles Tray,DEFAULT,Omar,0,61.76101346251994
+Transnasal skullbase burr 4.5 mm,DEFAULT,Omar,0,61.76101346251994
+Soft tissue,DEFAULT,Raj,0,61.76101346251994
+Spinal pack,DEFAULT,Raj,0,61.76101346251994
+Large drapes,DEFAULT,Raj,0,61.76101346251994
+Small drapes,DEFAULT,Raj,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Raj,0,61.76101346251994
+Blade 10,DEFAULT,Raj,0,61.76101346251994
+2-0 Vicryl,ADDED,Raj,0,61.765311757022225
+Diathermy machine,DEFAULT,Raj,0,61.76101346251994
+Medium long patties,DEFAULT,Raj,0,61.76101346251994
+Suction tubing,DEFAULT,Raj,0,61.76101346251994
+Blue gauze,DEFAULT,Raj,0,61.76101346251994
+Anti-mist,DEFAULT,Raj,0,61.76101346251994
+Medtronic M5 Microdebrider,DEFAULT,Raj,0,61.76101346251994
+Small square patties,DEFAULT,Raj,0,61.76101346251994
+Bone wax,DEFAULT,Raj,0,61.76101346251994
+Blade 11,DEFAULT,Raj,0,61.76101346251994
+Suction device,DEFAULT,Raj,0,61.76101346251994
+Specimen jar,DEFAULT,Raj,0,61.76101346251994
+Micro patties,DEFAULT,Raj,0,61.76101346251994
+Patties large square,DEFAULT,Raj,0,61.76101346251994
+Sonopet IQ console,DEFAULT,Raj,0,61.76101346251994
+NU-KNIT,DEFAULT,Raj,0,61.76101346251994
+Colorado needle long red,DEFAULT,Raj,0,61.76101346251994
+Colorado needle long blue,DEFAULT,Raj,0,61.76101346251994
+Magnetic mats,DEFAULT,Raj,0,61.76101346251994
+MR8 drill,DEFAULT,Raj,0,61.76101346251994
+Floseal,DEFAULT,Raj,0,61.76101346251994
+Large Chloraprep stick,DEFAULT,Raj,0,61.76101346251994
+Tutoplast Fascia Lata,DEFAULT,Raj,0,61.76101346251994
+Advanced Sinus Tray,DEFAULT,Raj,0,61.76101346251994
+Pituitary Tumour Set One,DEFAULT,Raj,0,61.76101346251994
+Brain Lab 4 Pin Array,DEFAULT,Raj,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Raj,0,61.76101346251994
+Miss Karabatsou's Ronguers,DEFAULT,Raj,0,61.76101346251994
+Blue quick change camera drape,DEFAULT,Raj,0,61.76101346251994
+Small gallipot,DEFAULT,Raj,0,61.76101346251994
+Instrument pouch,DEFAULT,Raj,0,61.76101346251994
+9 fenestrated sucker,DEFAULT,Raj,0,82.11478643996028
+Duplo tip,DEFAULT,Raj,0,61.76101346251994
+Nasopore,DEFAULT,Raj,0,61.76101346251994
+50ml syringe,DEFAULT,Raj,0,78.56385262961865
+Kwill,DEFAULT,Raj,0,61.76101346251994
+Brain Lab Balls,DEFAULT,Raj,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Raj,0,61.76101346251994
+Endoscrub 30 degree,DEFAULT,Raj,0,61.76101346251994
+Endoscrub 70 degree,DEFAULT,Raj,0,61.76101346251994
+Tricut blade 4mm,DEFAULT,Raj,0,61.76101346251994
+Transnasal skullbase burr 4mm,DEFAULT,Raj,0,61.76101346251994
+Spongostan,DEFAULT,Raj,0,61.76101346251994
+Brain Lab boxes,DEFAULT,Raj,0,61.76101346251994
+4K stack,DEFAULT,Raj,0,61.76101346251994
+Tisseel,DEFAULT,Raj,0,61.76101346251994
+Brain Lab,DEFAULT,Raj,0,61.76101346251994
+Monocryl 4-0,DEFAULT,Raj,0,61.76101346251994
+Small dressing,DEFAULT,Raj,0,61.76101346251994
+Micro doppler probe,DEFAULT,Raj,0,61.76101346251994
+Sonopet IQ long tip,DEFAULT,Raj,0,61.76101346251994
+Sonopet IQ tray,DEFAULT,Raj,0,61.76101346251994
+Endoscopic bipolar,DEFAULT,Raj,0,61.76101346251994
+12fg female foley catheters,DEFAULT,Raj,0,83.56321179568282
+Rapid Rhino,DEFAULT,Raj,0,61.76101346251994
+MR8 drill tray,DEFAULT,Raj,0,61.76101346251994
+KLS Extendable Instruments,DEFAULT,Raj,0,61.76101346251994
+KLS Extra Handles Tray,DEFAULT,Raj,0,61.76101346251994
+Transnasal skullbase burr 4.5 mm,DEFAULT,Raj,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 9,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Basic camera drape,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Surgicel 50x70mm,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Syringe 20ml,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Arachnoid knife straight,DEFAULT,Standardized,1,61.77099728356744
+Patties large square,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mats,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Quiver,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Blue needles,DEFAULT,Standardized,1,61.77099728356744
+Pituitary Tumour Set One,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab 4 Pin Array,DEFAULT,Standardized,1,61.77099728356744
+Small gallipot,DEFAULT,Standardized,1,61.77099728356744
+Duplo tip,DEFAULT,Standardized,1,61.77099728356744
+Kwill,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab Balls,DEFAULT,Standardized,1,61.77099728356744
+Transnasal skullbase burr 4mm,DEFAULT,Standardized,1,61.77099728356744
+Ioban,DEFAULT,Standardized,1,61.77099728356744
+Jug,DEFAULT,Standardized,1,61.77099728356744
+Specimen pot,DEFAULT,Standardized,1,61.77099728356744
+Syringe 60ml,DEFAULT,Standardized,1,61.77099728356744
+OP tape,DEFAULT,Standardized,1,61.77099728356744
+Spongostan,DEFAULT,Standardized,1,61.77099728356744
+Pink scrub with saline,DEFAULT,Standardized,1,61.77099728356744
+Small DuraGen,DEFAULT,Standardized,1,61.77099728356744
+Curve 2 Brain Lab,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab boxes,DEFAULT,Standardized,1,61.77099728356744
+4K stack,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Bowl,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Kanna,0,61.76101346251994
+Small drapes,DEFAULT,Kanna,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Kanna,0,61.76101346251994
+Diathermy machine,DEFAULT,Kanna,0,61.76101346251994
+Pack 4x4,DEFAULT,Kanna,0,61.76101346251994
+Medium long patties,DEFAULT,Kanna,0,61.76101346251994
+Suction tubing,DEFAULT,Kanna,0,61.76101346251994
+Basic camera drape,DEFAULT,Kanna,0,61.76101346251994
+Blue gauze,DEFAULT,Kanna,0,61.76101346251994
+Small square patties,DEFAULT,Kanna,0,61.76101346251994
+Surgicel 50x70mm,DEFAULT,Kanna,0,61.76101346251994
+Blunt needle,DEFAULT,Kanna,0,61.76101346251994
+Light handle,DEFAULT,Kanna,0,61.76101346251994
+Syringe 20ml,DEFAULT,Kanna,0,61.76101346251994
+Suction device,DEFAULT,Kanna,0,61.76101346251994
+Neuro tubing,DEFAULT,Kanna,0,61.76101346251994
+Arachnoid knife straight,DEFAULT,Kanna,0,61.76101346251994
+Patties large square,DEFAULT,Kanna,0,61.76101346251994
+MR8 electric drill,DEFAULT,Kanna,0,61.76101346251994
+Magnetic mats,DEFAULT,Kanna,0,61.76101346251994
+Trolley covers,DEFAULT,Kanna,0,61.76101346251994
+Quiver,DEFAULT,Kanna,0,61.76101346251994
+Floseal,DEFAULT,Kanna,0,61.76101346251994
+Blue needles,DEFAULT,Kanna,0,61.76101346251994
+Pituitary Tumour Set One,DEFAULT,Kanna,0,61.76101346251994
+Brain Lab 4 Pin Array,DEFAULT,Kanna,0,61.76101346251994
+Small gallipot,DEFAULT,Kanna,0,61.76101346251994
+Duplo tip,DEFAULT,Kanna,0,61.76101346251994
+Nasopore,ADDED,Kanna,0,61.765311757022225
+Kwill,DEFAULT,Kanna,0,61.76101346251994
+Brain Lab Balls,DEFAULT,Kanna,0,61.76101346251994
+Transnasal skullbase burr 4mm,DEFAULT,Kanna,0,61.76101346251994
+Ioban,DEFAULT,Kanna,0,61.76101346251994
+Jug,DEFAULT,Kanna,0,61.76101346251994
+Specimen pot,DEFAULT,Kanna,0,61.76101346251994
+Syringe 60ml,DEFAULT,Kanna,0,61.7610134625201
+OP tape,DEFAULT,Kanna,0,61.7610134625201
+Spongostan,DEFAULT,Kanna,0,61.76101346251994
+Pink scrub with saline,DEFAULT,Kanna,0,61.76101346251994
+Small DuraGen,DEFAULT,Kanna,0,61.76101346251994
+Curve 2 Brain Lab,DEFAULT,Kanna,0,61.76101346251994
+Brain Lab boxes,DEFAULT,Kanna,0,61.76101346251994
+4K stack,DEFAULT,Kanna,0,61.76101346251994
+MR8 drill console,DEFAULT,Kanna,0,61.76101346251994
+Bowl,DEFAULT,Kanna,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Endoscrub drill console,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mat,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Pituitary Tumour Set One,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab 4 Pin Array,DEFAULT,Standardized,1,61.77099728356744
+Sinus Telescopes 4mm tray,DEFAULT,Standardized,1,61.77099728356744
+Miss Karabatsou's Ronguers,DEFAULT,Standardized,1,61.77099728356744
+Quick change camera drape,DEFAULT,Standardized,1,61.77099728356744
+Instrument pouch,DEFAULT,Standardized,1,61.77099728356744
+9 fenestrated sucker,DEFAULT,Standardized,1,82.12477026100778
+Nasopore,DEFAULT,Standardized,1,61.77099728356744
+Kwill,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab Balls,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 0 degree,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 30 degree,DEFAULT,Standardized,1,61.77099728356744
+Ioban,DEFAULT,Standardized,1,61.77099728356744
+Syringe 60ml,DEFAULT,Standardized,1,61.77099728356744
+Spongostan,DEFAULT,Standardized,1,61.77099728356744
+4K stack,DEFAULT,Standardized,1,61.77099728356744
+M5 Microdebrider,DEFAULT,Standardized,1,61.77099728356744
+Colorado tip,DEFAULT,Standardized,1,61.77099728356744
+Doppler drape,DEFAULT,Standardized,1,61.77099728356744
+Arachnoid blade,DEFAULT,Standardized,1,61.77099728356744
+Endonasal burr,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab attachment,DEFAULT,Standardized,1,61.77099728356744
+Tisseel,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Doppler probe,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill,DEFAULT,Standardized,1,61.77099728356744
+Mupirocin ointment,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Jane,0,61.76101346251994
+Spinal pack,DEFAULT,Jane,0,61.76101346251994
+Large drapes,DEFAULT,Jane,0,61.76101346251994
+Small drapes,DEFAULT,Jane,0,61.76101346251994
+Blade 10,DEFAULT,Jane,0,61.76101346251994
+Diathermy machine,DEFAULT,Jane,0,61.76101346251994
+Medium long patties,DEFAULT,Jane,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Jane,0,61.76101346251994
+Endoscrub drill console,DEFAULT,Jane,0,61.76101346251994
+Suction device,DEFAULT,Jane,0,61.76101346251994
+Magnetic mat,DEFAULT,Jane,0,61.76101346251994
+Floseal,DEFAULT,Jane,0,61.76101346251994
+Pituitary Tumour Set One,DEFAULT,Jane,0,61.76101346251994
+Brain Lab 4 Pin Array,DEFAULT,Jane,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Jane,0,61.76101346251994
+Miss Karabatsou's Ronguers,DEFAULT,Jane,0,61.76101346251994
+Quick change camera drape,DEFAULT,Jane,0,61.76101346251994
+Instrument pouch,DEFAULT,Jane,0,61.76101346251994
+9 fenestrated sucker,DEFAULT,Jane,0,82.11478643996028
+Duplo tip,ADDED,Jane,0,61.765311757022225
+Nasopore,DEFAULT,Jane,0,61.76101346251994
+Kwill,DEFAULT,Jane,0,61.76101346251994
+Brain Lab Balls,DEFAULT,Jane,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Jane,0,61.76101346251994
+Endoscrub 30 degree,DEFAULT,Jane,0,61.76101346251994
+Ioban,DEFAULT,Jane,0,61.76101346251994
+Syringe 60ml,DEFAULT,Jane,0,61.76101346251994
+Spongostan,DEFAULT,Jane,0,61.76101346251994
+4K stack,DEFAULT,Jane,0,61.76101346251994
+M5 Microdebrider,DEFAULT,Jane,0,61.76101346251994
+Colorado tip,DEFAULT,Jane,0,61.76101346251994
+Doppler drape,DEFAULT,Jane,0,61.76101346251994
+Arachnoid blade,DEFAULT,Jane,0,61.76101346251994
+Endonasal burr,DEFAULT,Jane,0,61.76101346251994
+Brain Lab attachment,DEFAULT,Jane,0,61.76101346251994
+Tisseel,DEFAULT,Jane,0,61.76101346251994
+Brain Lab,DEFAULT,Jane,0,61.76101346251994
+MR8 drill console,DEFAULT,Jane,0,61.76101346251994
+Doppler probe,DEFAULT,Jane,0,61.76101346251994
+MR8 drill,DEFAULT,Jane,0,61.76101346251994
+Mupirocin ointment,DEFAULT,Jane,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 pack,DEFAULT,Standardized,1,15.00085372117779
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Specimen jar,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+12x12 pack,DEFAULT,Standardized,1,24.949173670937256
+Perforator drill piece,DEFAULT,Standardized,1,61.77099728356744
+2-0 silk ties,DEFAULT,Standardized,1,61.77099728356744
+Syringe 10ml,DEFAULT,Standardized,1,61.77099728356744
+Carotid ligation,DEFAULT,Standardized,1,61.77099728356744
+Ioban,DEFAULT,Standardized,1,61.77099728356744
+Intra-thecal Vancomycin from Omnicell,DEFAULT,Standardized,1,61.77099728356744
+3-way tap,DEFAULT,Standardized,1,22.70099841073393
+Kidney dish for 12x12 swabs,DEFAULT,Standardized,1,61.77099728356744
+Codman Bactiseal Ventricular catheter,DEFAULT,Standardized,1,61.77099728356744
+Codman Bactiseal Distal Catheter,DEFAULT,Standardized,1,61.77099728356744
+Shunt passer 65cm - LARGE,DEFAULT,Standardized,1,61.77099728356744
+Shunt valve,DEFAULT,Standardized,1,61.77099728356744
+Manometer,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Catherine,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Catherine,0,61.76101346251994
+Spinal pack,DEFAULT,Catherine,0,61.76101346251994
+Large drapes,DEFAULT,Catherine,0,61.76101346251994
+Small drapes,DEFAULT,Catherine,0,61.76101346251994
+Blade 10,DEFAULT,Catherine,0,61.76101346251994
+Blade 15,DEFAULT,Catherine,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Catherine,0,61.76101346251994
+Skin clips,DEFAULT,Catherine,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Catherine,0,61.76101346251994
+Diathermy machine,DEFAULT,Catherine,0,61.76101346251994
+4x4 pack,DEFAULT,Catherine,0,14.990869900130292
+Bone wax,DEFAULT,Catherine,0,61.76101346251994
+Suction device,DEFAULT,Catherine,0,61.76101346251994
+Specimen jar,DEFAULT,Catherine,0,61.76101346251994
+MR8 electric drill,DEFAULT,Catherine,0,61.76101346251994
+12x12 pack,DEFAULT,Catherine,0,24.939189849889758
+Perforator drill piece,DEFAULT,Catherine,0,61.76101346251994
+2-0 silk ties,DEFAULT,Catherine,0,61.76101346251994
+Syringe 10ml,DEFAULT,Catherine,0,61.76101346251994
+Carotid ligation,DEFAULT,Catherine,0,61.76101346251994
+Ioban,DEFAULT,Catherine,0,61.76101346251994
+Intra-thecal Vancomycin from Omnicell,DEFAULT,Catherine,0,61.76101346251994
+3-way tap,DEFAULT,Catherine,0,22.691014589686432
+Kidney dish for 12x12 swabs,DEFAULT,Catherine,0,61.76101346251994
+Codman Bactiseal Ventricular catheter,DEFAULT,Catherine,0,61.76101346251994
+Codman Bactiseal Distal Catheter,DEFAULT,Catherine,0,61.76101346251994
+Shunt passer 65cm - LARGE,DEFAULT,Catherine,0,61.76101346251994
+Type of shunt valve,ADDED,Catherine,0,61.765311757022225
+Manometer,DEFAULT,Catherine,0,61.76101346251994
+MR8 drill console,DEFAULT,Catherine,0,61.76101346251994
+MR8 3mm matchstick drill,DEFAULT,Catherine,0,61.76101346251994
+Neuro set up,DEFAULT,Matt,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Matt,0,61.76101346251994
+Spinal pack,DEFAULT,Matt,0,61.76101346251994
+Large drapes,DEFAULT,Matt,0,61.76101346251994
+Small drapes,DEFAULT,Matt,0,61.76101346251994
+Blade 10,DEFAULT,Matt,0,61.76101346251994
+Blade 15,DEFAULT,Matt,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Matt,0,61.76101346251994
+Skin clips,DEFAULT,Matt,0,61.76101346251994
+Aqueous Betadine,DEFAULT,Matt,0,61.76101346251994
+Diathermy machine,DEFAULT,Matt,0,61.76101346251994
+Diathermy machine,DEFAULT,Matt,0,61.7610134625201
+4x4 pack,DEFAULT,Matt,0,14.990869900129724
+Bone wax,DEFAULT,Matt,0,61.76101346251994
+Suction device,DEFAULT,Matt,0,61.76101346251994
+Specimen jar,DEFAULT,Matt,0,61.76101346251994
+MR8 electric drill,DEFAULT,Matt,0,61.76101346251994
+12x12 pack,DEFAULT,Matt,0,24.939189849889758
+2-0 silk ties,DEFAULT,Matt,0,61.76101346251994
+Syringe 10ml,DEFAULT,Matt,0,61.76101346251994
+Carotid ligation,DEFAULT,Matt,0,61.76101346251994
+Ioban,DEFAULT,Matt,0,61.76101346251994
+Intra-thecal Vancomycin from Omnicell,DEFAULT,Matt,0,61.76101346251994
+3-way tap,DEFAULT,Matt,0,22.691014589686432
+Kidney dish for 12x12 swabs,DEFAULT,Matt,0,61.76101346251994
+Codman Bactiseal Ventricular catheter,DEFAULT,Matt,0,61.76101346251994
+Codman Bactiseal Distal Catheter,DEFAULT,Matt,0,61.76101346251994
+Shunt passer 65cm - LARGE,DEFAULT,Matt,0,61.76101346251994
+Shunt valve,DEFAULT,Matt,0,61.76101346251994
+Manometer,DEFAULT,Matt,0,61.76101346251994
+Small trolley,ADDED,Matt,0,61.765311757022225
+MR8 drill console,DEFAULT,Matt,0,61.76101346251994
+MR8 3mm matchstick drill,DEFAULT,Matt,0,61.76101346251994
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 2-0,DEFAULT,Standardized,1,61.77099728356744
+Specimen jar,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Perforator drill piece,DEFAULT,Standardized,1,61.77099728356744
+Codman Bactiseal EVD catheter,DEFAULT,Standardized,1,61.77099728356744
+Silk ties 2-0,DEFAULT,Standardized,1,61.77099728356744
+Ethilon 3-0,DEFAULT,Standardized,1,61.77099728356744
+EVD complete system,DEFAULT,Standardized,1,61.77099728356744
+Green EVD pathway,DEFAULT,Standardized,1,61.77099728356744
+Silverline EVD catheter,DEFAULT,Standardized,1,61.77099728356744
+Aqueous Betadine,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 2-0,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Soft tissue pack,DEFAULT,Standardized,1,61.77099728356744
+Vicryl rapide 4-0,DEFAULT,Standardized,1,61.77099728356744
+Vicryl rapide 5-0,DEFAULT,Standardized,1,61.77099728356744
+Vicryl rapide 6-0,DEFAULT,Standardized,1,61.77099728356744
+Soft Tissue tray,DEFAULT,Standardized,1,61.77099728356744
+PDS 4-0,DEFAULT,Standardized,1,61.77099728356744
+PDS 5-0,DEFAULT,Standardized,1,61.77099728356744
+Bactroban ointment,DEFAULT,Standardized,1,61.77099728356744
+Hand instruments tray,DEFAULT,Standardized,1,61.77099728356744
+Large drape,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+4x4 pack,DEFAULT,Standardized,1,15.00085372117779
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Tracheostomy tray,DEFAULT,Standardized,1,61.77099728356744
+Fluroscope drape,DEFAULT,Standardized,1,61.77099728356744
+11 Blade,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Light handles,DEFAULT,Standardized,1,61.77099728356744
+Syringe 20ml,DEFAULT,Standardized,1,61.77099728356744
+Marker pen,DEFAULT,Standardized,1,61.77099728356744
+Aquagel,DEFAULT,Standardized,1,61.77099728356744
+Black bronchial suction catheter,DEFAULT,Standardized,1,61.77099728356744
+2-0 Silk suture,DEFAULT,Standardized,1,61.77099728356744
+Fibre-Optic Bronchoscope Swivel Connector,DEFAULT,Standardized,1,61.77099728356744
+Tracheostomy dressing,DEFAULT,Standardized,1,61.77099728356744
+Tracheostomy Tube Holder,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Trolley cover,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Trachey trolley,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+4x4 pack,DEFAULT,Standardized,1,15.00085372117779
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 500ml,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Marker pen,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+BAHA Complete Tray,DEFAULT,Standardized,1,61.77099728356744
+Drill console,DEFAULT,Standardized,1,61.77099728356744
+Green irrigation tubing,DEFAULT,Standardized,1,61.77099728356744
+BAHA Guide drill,DEFAULT,Standardized,1,61.77099728356744
+BAHA Widening drill,DEFAULT,Standardized,1,61.77099728356744
+BAHA Healing cap,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Rohini,0,61.76101346251994
+Small drapes,DEFAULT,Rohini,0,61.76101346251994
+Blade 15,DEFAULT,Rohini,0,61.76101346251994
+Microscope,DEFAULT,Rohini,0,61.76101346251994
+Diathermy machine,DEFAULT,Rohini,0,61.76101346251994
+Bowl pack,DEFAULT,Rohini,0,61.76101346251994
+Dental syringe,DEFAULT,Rohini,0,61.76101346251994
+Dental needle,DEFAULT,Rohini,0,61.76101346251994
+4x4 pack,DEFAULT,Rohini,0,14.990869900130292
+Suction tubing,DEFAULT,Rohini,0,61.76101346251994
+Bag Normal Saline 500ml,DEFAULT,Rohini,0,61.76101346251994
+Sharps box,DEFAULT,Rohini,0,61.76101346251994
+Light handle,DEFAULT,Rohini,0,61.76101346251994
+Marker pen,DEFAULT,Rohini,0,61.76101346251994
+Suction device,DEFAULT,Rohini,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Rohini,0,61.76101346251994
+4-0 Vicryl rapide,ADDED,Rohini,0,61.765311757022225
+BAHA Complete Tray,DEFAULT,Rohini,0,61.76101346251994
+Drill console,DEFAULT,Rohini,0,61.76101346251994
+Green irrigation tubing,DEFAULT,Rohini,0,61.76101346251994
+BAHA Guide drill,DEFAULT,Rohini,0,61.76101346251994
+BAHA Widening drill,DEFAULT,Rohini,0,61.76101346251994
+BAHA Healing cap,DEFAULT,Rohini,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+ENT DLTB stack system,DEFAULT,Standardized,1,61.77099728356744
+Medtronic M4/M5 Microdebrider,DEFAULT,Standardized,1,61.77099728356744
+Electric drill console,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 1L,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Advanced Sinus Tray,DEFAULT,Standardized,1,61.77099728356744
+Sinus Telescopes 4mm tray,DEFAULT,Standardized,1,61.77099728356744
+Blue quick change camera drape,DEFAULT,Standardized,1,61.77099728356744
+Instrument pouch,DEFAULT,Standardized,1,61.77099728356744
+Nasopore,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub 0 degree,DEFAULT,Standardized,1,61.77099728356744
+4K stack,DEFAULT,Standardized,1,61.77099728356744
+Fusion Navigation Tray,DEFAULT,Standardized,1,61.77099728356744
+Medtronic Tricut blade 11cmx4mm,DEFAULT,Standardized,1,61.77099728356744
+Black endoscrub pedal,DEFAULT,Standardized,1,61.77099728356744
+ENT stealth machine,DEFAULT,Standardized,1,61.77099728356744
+Instrument tracker,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 9,DEFAULT,Archana,0,61.76101346251994
+Diathermy machine,DEFAULT,Archana,0,61.76101346251994
+Bowl pack,DEFAULT,Archana,0,61.76101346251994
+Pack 4x4,DEFAULT,Archana,0,61.76101346251994
+Medium long patties,DEFAULT,Archana,0,61.76101346251994
+Suction tubing,DEFAULT,Archana,0,61.76101346251994
+Blue gauze,DEFAULT,Archana,0,61.76101346251994
+Anti-mist,DEFAULT,Archana,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Archana,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,DEFAULT,Archana,0,61.7610134625201
+Electric drill console,DEFAULT,Archana,0,61.7610134625201
+Light handle,DEFAULT,Archana,0,61.76101346251994
+Bag Normal Saline 1L,DEFAULT,Archana,0,61.76101346251994
+Suction device,DEFAULT,Archana,0,61.76101346251994
+Advanced Sinus Tray,DEFAULT,Archana,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Archana,0,61.76101346251994
+Blue quick change camera drape,DEFAULT,Archana,0,61.76101346251994
+Instrument pouch,DEFAULT,Archana,0,61.76101346251994
+Nasopore,DEFAULT,Archana,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Archana,0,61.76101346251994
+4K stack,DEFAULT,Archana,0,61.76101346251994
+Fusion Navigation Tray,DEFAULT,Archana,0,61.76101346251994
+Medtronic Tricut blade 11cmx4mm,DEFAULT,Archana,0,61.76101346251994
+Black endoscrub pedal,DEFAULT,Archana,0,61.76101346251994
+ENT stealth machine,DEFAULT,Archana,0,61.76101346251994
+ENT Patient tracker,ADDED,Archana,0,61.765311757022225
+Instrument tracker,DEFAULT,Archana,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Bilal,0,61.76101346251994
+Diathermy machine,DEFAULT,Bilal,0,61.76101346251994
+Bowl pack,DEFAULT,Bilal,0,61.76101346251994
+Pack 4x4,DEFAULT,Bilal,0,61.76101346251994
+Medium long patties,DEFAULT,Bilal,0,61.76101346251994
+Suction tubing,DEFAULT,Bilal,0,61.76101346251994
+Blue gauze,DEFAULT,Bilal,0,61.76101346251994
+Anti-mist,DEFAULT,Bilal,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Bilal,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,DEFAULT,Bilal,0,61.76101346251994
+Electric drill console,DEFAULT,Bilal,0,61.76101346251994
+Light handle,DEFAULT,Bilal,0,61.76101346251994
+Bag Normal Saline 1L,DEFAULT,Bilal,0,61.76101346251994
+Suction device,DEFAULT,Bilal,0,61.76101346251994
+Advanced Sinus Tray,DEFAULT,Bilal,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Bilal,0,61.76101346251994
+Blue quick change camera drape,DEFAULT,Bilal,0,61.76101346251994
+Instrument pouch,DEFAULT,Bilal,0,61.76101346251994
+Nasopore,DEFAULT,Bilal,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Bilal,0,61.76101346251994
+4K stack,DEFAULT,Bilal,0,61.76101346251994
+Fusion Navigation Tray,DEFAULT,Bilal,0,61.76101346251994
+Medtronic Tricut blade 11cmx4mm,DEFAULT,Bilal,0,61.76101346251994
+Black endoscrub pedal,DEFAULT,Bilal,0,61.76101346251994
+ENT stealth machine,DEFAULT,Bilal,0,61.76101346251994
+ENT Patient tracker,ADDED,Bilal,0,61.765311757022225
+Instrument tracker,DEFAULT,Bilal,0,61.76101346251994
+Fraiser sucker 9,DEFAULT,Raj,0,61.76101346251994
+Diathermy machine,DEFAULT,Raj,0,61.76101346251994
+Bowl pack,DEFAULT,Raj,0,61.76101346251994
+Pack 4x4,DEFAULT,Raj,0,61.76101346251994
+Medium long patties,DEFAULT,Raj,0,61.76101346251994
+Suction tubing,DEFAULT,Raj,0,61.76101346251994
+Blue gauze,DEFAULT,Raj,0,61.76101346251994
+Anti-mist,DEFAULT,Raj,0,61.76101346251994
+ENT DLTB stack system,DEFAULT,Raj,0,61.76101346251994
+Medtronic M4/M5 Microdebrider,DEFAULT,Raj,0,61.76101346251994
+Electric drill console,DEFAULT,Raj,0,61.76101346251994
+Light handle,DEFAULT,Raj,0,61.76101346251994
+Bag Normal Saline 1L,DEFAULT,Raj,0,61.76101346251994
+Suction device,DEFAULT,Raj,0,61.76101346251994
+Advanced Sinus Tray,DEFAULT,Raj,0,61.76101346251994
+Sinus Telescopes 4mm tray,DEFAULT,Raj,0,61.76101346251994
+Blue quick change camera drape,DEFAULT,Raj,0,61.76101346251994
+Instrument pouch,DEFAULT,Raj,0,61.76101346251994
+Nasopore,DEFAULT,Raj,0,61.76101346251994
+Endoscrub 0 degree,DEFAULT,Raj,0,61.76101346251994
+4K stack,DEFAULT,Raj,0,61.76101346251994
+Fusion Navigation Tray,DEFAULT,Raj,0,61.76101346251994
+Medtronic Tricut blade 11cmx4mm,DEFAULT,Raj,0,61.76101346251994
+Black endoscrub pedal,DEFAULT,Raj,0,61.76101346251994
+ENT stealth machine,DEFAULT,Raj,0,61.76101346251994
+ENT Patient tracker,ADDED,Raj,0,61.765311757022225
+Instrument tracker,DEFAULT,Raj,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Headlights,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Trolley cover,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Vicryl rapide 4-0,DEFAULT,Standardized,1,61.77099728356744
+Blue nasal splints,DEFAULT,Standardized,1,61.77099728356744
+SMR tray,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.77099728356744
+Silk suture 2-0,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Silk ties 2-0,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Microsensor Tray,DEFAULT,Standardized,1,61.77099728356744
+RAUMEDIC Bolt Kit,DEFAULT,Standardized,1,61.77099728356744
+RAUMEDIC Tunnelling Kit,DEFAULT,Standardized,1,61.77099728356744
+ICP CABLE,DEFAULT,Standardized,1,61.77099728356744
+Green holey drape,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+Receivers and gallipots,DEFAULT,Standardized,1,61.77099728356744
+Aquagel,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Wool pad,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+Light source,DEFAULT,Standardized,1,61.77099728356744
+New Laryngoscope tray,DEFAULT,Standardized,1,61.77099728356744
+Laryngeal sucker 35cm,DEFAULT,Standardized,1,61.77099728356744
+Weerda Laryngoscope,DEFAULT,Standardized,1,61.77099728356744
+Mr Rothera’s 0 degree Long Hopkins Rod,DEFAULT,Standardized,1,61.77099728356744
+ATS 45 ETHICON ENDOPATH ETS FLEXIBLE 45 plus reloa,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Large cotton wool balls,DEFAULT,Standardized,1,61.77099728356744
+Myringotomy Tray,DEFAULT,Standardized,1,61.77099728356744
+Myringotomy pack,DEFAULT,Standardized,1,61.77099728356744
+Grommets,DEFAULT,Standardized,1,61.77099728356744
+Gentisone drops,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Corina,0,61.76101346251994
+"Adrenaline 1:10,000",DEFAULT,Corina,0,61.76101346251994
+"Adrenaline 1:10,000",ADDED,Corina,0,61.765311757022225
+Suction device,DEFAULT,Corina,0,61.76101346251994
+Large cotton wool balls,DEFAULT,Corina,0,61.76101346251994
+Myringotomy Tray,DEFAULT,Corina,0,61.76101346251994
+Myringotomy pack,DEFAULT,Corina,0,61.76101346251994
+Grommets,DEFAULT,Corina,0,61.76101346251994
+Gentisone drops,DEFAULT,Corina,0,61.76101346251994
+Syringe 2ml,ADDED,Corina,0,61.765311757022225
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 3-0 Undyed,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+Black Belt Retractor tray,DEFAULT,Standardized,1,61.77099728356744
+Trimline retractor RIGHT,DEFAULT,Standardized,1,61.77099728356744
+Clowards extras tray,DEFAULT,Standardized,1,61.77099728356744
+Solis Cage,DEFAULT,Standardized,1,61.77099728356744
+Ozark plating system,DEFAULT,Standardized,1,61.77099728356744
+Insulated monopolar tip,DEFAULT,Standardized,1,61.77099728356744
+Yellow spinal needle,DEFAULT,Standardized,1,61.77099728356744
+Trimline pins,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Pledgets/lamis,DEFAULT,Standardized,1,61.77099728356744
+Small surgicel 50x70mm,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+JP drain,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.770997283567596
+Suction device,DEFAULT,Standardized,1,61.770997283567596
+Disposable bipolar,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Microscope cover,DEFAULT,Standardized,1,61.77099728356744
+Tritanium C,DEFAULT,Standardized,1,61.77099728356744
+Pyrenees plating system,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 9,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Basic camera scope drape,DEFAULT,Standardized,1,61.77099728356744
+Diego Elite Tube set,DEFAULT,Standardized,1,61.77099728356744
+Debrider blade 4mm,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 500ml,DEFAULT,Standardized,1,61.77099728356744
+ENT DLTB stack system,DEFAULT,Standardized,1,61.77099728356744
+Gyrus console,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Syringe 10ml,DEFAULT,Standardized,1,61.77099728356744
+SMR tray,DEFAULT,Standardized,1,61.77099728356744
+Sinus Telescopes 4mm tray,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+FESS tray,DEFAULT,Standardized,1,61.77099728356744
+Olympus debrider,DEFAULT,Standardized,1,61.77099728356744
+Sinus suction 9fg 70 degee curve LOT S012,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+4x4 pack,DEFAULT,Standardized,1,15.00085372117779
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+12x12 pack,DEFAULT,Standardized,1,24.949173670937256
+Single wrapped screwdrivers,DEFAULT,Standardized,1,61.77099728356744
+Cranial plate,DEFAULT,Standardized,1,61.77099728356744
+Stryker screws 5mm,DEFAULT,Standardized,1,61.77099728356744
+Patient's cranioplasty paperwork,DEFAULT,Standardized,1,61.77099728356744
+Raney clips,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Yellow fish hook,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Mercian Curved scissors,DEFAULT,Standardized,1,61.77099728356744
+Mercian Straight scissors,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+McCulloch Retractors Tray,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis cable,DEFAULT,Standardized,1,61.77099728356744
+Mr Holland's Instruments,DEFAULT,Standardized,1,61.77099728356744
+Dural repair tray,DEFAULT,Standardized,1,61.77099728356744
+Microscopic Instruments,DEFAULT,Standardized,1,61.77099728356744
+Universal Screwdriver,DEFAULT,Standardized,1,61.77099728356744
+Disposable bipolar,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ canister with sock,DEFAULT,Standardized,1,61.77099728356744
+Arachnoid knife straight,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound cover,DEFAULT,Standardized,1,61.77099728356744
+Specimen jar,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Large square patties,DEFAULT,Standardized,1,61.77099728356744
+Codman strips,DEFAULT,Standardized,1,61.77099728356744
+5-0 Prolene,DEFAULT,Standardized,1,61.77099728356744
+1-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ console,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ tubing,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ standard tip,DEFAULT,Standardized,1,61.77099728356744
+Medium opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ Apex knife tip,DEFAULT,Standardized,1,61.77099728356744
+Large surgicel 10x20cm,DEFAULT,Standardized,1,61.77099728356744
+½ inch steristrips,DEFAULT,Standardized,1,36.02199248799263
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl for dura,DEFAULT,Standardized,1,61.77099728356744
+CUSA 36hz tray,DEFAULT,Standardized,1,61.77099728356744
+CUSA tubing,DEFAULT,Standardized,1,61.77099728356744
+CUSA standard tip,DEFAULT,Standardized,1,61.77099728356744
+CUSA wrench,DEFAULT,Standardized,1,61.77099728356744
+CUSA console,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,John,0,61.76101346251994
+Large drapes,DEFAULT,John,0,61.76101346251994
+Small drapes,DEFAULT,John,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,John,0,61.76101346251994
+10 Blade,DEFAULT,John,0,61.76101346251994
+2-0 Vicryl,DEFAULT,John,0,61.76101346251994
+Microscope,DEFAULT,John,0,61.76101346251994
+Diathermy machine,DEFAULT,John,0,61.76101346251994
+Medium long patties,DEFAULT,John,0,61.76101346251994
+Suction tubing,DEFAULT,John,0,61.76101346251994
+Laminectomy Spinal tray,DEFAULT,John,0,61.76101346251994
+6 Fraiser sucker,DEFAULT,John,0,61.76101346251994
+Small square patties,DEFAULT,John,0,61.76101346251994
+Blunt needle,DEFAULT,John,0,61.76101346251994
+Bone wax,DEFAULT,John,0,61.76101346251994
+Mercian Curved scissors,DEFAULT,John,0,61.76101346251994
+Mercian Straight scissors,DEFAULT,John,0,61.76101346251994
+Rhoton Dissectors,DEFAULT,John,0,61.76101346251994
+Sonopet IQ,DEFAULT,John,0,61.76101346251994
+11 Blade,ADDED,John,0,61.765311757022225
+Suction device,DEFAULT,John,0,61.76101346251994
+McCulloch Retractors Tray,DEFAULT,John,0,61.76101346251994
+Speitzler Mallis cable,DEFAULT,John,0,61.76101346251994
+Mr Holland's instruments,ADDED,John,0,61.765311757022225
+Dural repair tray,DEFAULT,John,0,61.76101346251994
+Microscopic Instruments,DEFAULT,John,0,61.76101346251994
+Universal Screwdriver,DEFAULT,John,0,61.76101346251994
+Disposable bipolar,DEFAULT,John,0,61.76101346251994
+Neuro tubing,DEFAULT,John,0,61.76101346251994
+Sonopet IQ canister with sock,DEFAULT,John,0,61.76101346251994
+Arachnoid knife straight,DEFAULT,John,0,61.76101346251994
+Ultrasound cover,DEFAULT,John,0,61.76101346251994
+Specimen jar,DEFAULT,John,0,61.76101346251994
+Micro patties,DEFAULT,John,0,61.76101346251994
+Large square patties,DEFAULT,John,0,61.76101346251994
+Codman strips,DEFAULT,John,0,61.76101346251994
+5-0 Prolene,DEFAULT,John,0,61.76101346251994
+1-0 Vicryl,DEFAULT,John,0,61.76101346251994
+Sonopet IQ console,DEFAULT,John,0,61.76101346251994
+Ultrasound,DEFAULT,John,0,61.76101346251994
+MR8 electric drill,DEFAULT,John,0,61.76101346251994
+Microscope drape,DEFAULT,John,0,61.76101346251994
+Sonopet IQ tubing,DEFAULT,John,0,61.76101346251994
+Sonopet IQ standard tip,DEFAULT,John,0,61.76101346251994
+Medium opsite dressing,DEFAULT,John,0,61.76101346251994
+Sonopet IQ Apex knife tip,DEFAULT,John,0,61.76101346251994
+Large surgicel 10x20cm,DEFAULT,John,0,61.76101346251994
+½ inch steristrips,DEFAULT,John,0,36.01200866694513
+MR8 drill console,DEFAULT,John,0,61.76101346251994
+MR8 3mm matchstick drill (purple),DEFAULT,John,0,61.76101346251994
+3-0 Vicryl for dura,DEFAULT,John,0,61.76101346251994
+CUSA console,DEFAULT,John,0,61.76101346251994
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.770997283567596
+Bowl pack,DEFAULT,Standardized,1,61.770997283567596
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+1-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ console,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+12x12 Pack,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ tubing,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Complex Spine Instruments,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Complex Spine Screwbox,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Complex Spine Rods & Cross Connectors,DEFAULT,Standardized,1,61.77099728356744
+Table Top Rod Cutter,DEFAULT,Standardized,1,61.77099728356744
+XIA French Bender,DEFAULT,Standardized,1,61.77099728356744
+XIA Final Tightener Audible,DEFAULT,Standardized,1,61.77099728356744
+Spinal Probes,DEFAULT,Standardized,1,61.77099728356744
+Iliac Probe,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mats,DEFAULT,Standardized,1,61.77099728356744
+Large isolation drape,DEFAULT,Standardized,1,61.77099728356744
+C-arm drape,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Quiver,DEFAULT,Standardized,1,61.77099728356744
+Nylon tape,DEFAULT,Standardized,1,61.77099728356744
+Aquamantys handpiece,DEFAULT,Standardized,1,61.77099728356744
+1-0 PDS,DEFAULT,Standardized,1,61.77099728356744
+2-0 PDS,DEFAULT,Standardized,1,61.77099728356744
+Skin glue,DEFAULT,Standardized,1,61.77099728356744
+Redivac drain,DEFAULT,Standardized,1,61.77099728356744
+Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Large Opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Isolation bag,DEFAULT,Standardized,1,61.77099728356744
+Giving set,DEFAULT,Standardized,1,61.77099728356744
+Aquamantys console,DEFAULT,Standardized,1,61.77099728356744
+Overhead table,DEFAULT,Standardized,1,61.77099728356744
+Metal ruler,DEFAULT,Standardized,1,61.77099728356744
+Cell Salvage bowl stand,DEFAULT,Standardized,1,61.77099728356744
+Weighing scale,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ Apex knife tip,DEFAULT,Standardized,1,61.77099728356744
+McCulloch Retractors,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill,DEFAULT,Standardized,1,61.77099728356744
+Mr Mohammad's Instruments,DEFAULT,Standardized,1,61.77099728356744
+Angled Bone Curettes,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Large Chloraprep stick,DEFAULT,Standardized,1,61.77099728356744
+Alcoholic Betadine,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker 3600,DEFAULT,Standardized,1,61.77099728356744
+"Stryker XIA Implants (rods, screws, blockers)",DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Opsite flexigrid dressing,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+1-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ console,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+12x12 Pack,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ tubing,DEFAULT,Standardized,1,61.77099728356744
+Table Top Rod Cutter,DEFAULT,Standardized,1,61.77099728356744
+XIA French Bender,DEFAULT,Standardized,1,61.77099728356744
+XIA Final Tightener Audible,DEFAULT,Standardized,1,61.77099728356744
+Spinal Probes,DEFAULT,Standardized,1,61.77099728356744
+Iliac Probe,DEFAULT,Standardized,1,61.77099728356744
+Magnetic mats,DEFAULT,Standardized,1,61.77099728356744
+Large isolation drape,DEFAULT,Standardized,1,61.77099728356744
+C-arm drape,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Quiver,DEFAULT,Standardized,1,61.77099728356744
+Nylon tape,DEFAULT,Standardized,1,61.77099728356744
+Aquamantys handpiece,DEFAULT,Standardized,1,61.77099728356744
+1-0 PDS,DEFAULT,Standardized,1,61.77099728356744
+2-0 PDS,DEFAULT,Standardized,1,61.77099728356744
+Skin glue,DEFAULT,Standardized,1,61.77099728356744
+Redivac drain,DEFAULT,Standardized,1,61.77099728356744
+Steri-strips,DEFAULT,Standardized,1,61.77099728356744
+Large Opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Isolation bag,DEFAULT,Standardized,1,61.77099728356744
+Giving set,DEFAULT,Standardized,1,61.77099728356744
+Aquamantys console,DEFAULT,Standardized,1,61.77099728356744
+Metal ruler,DEFAULT,Standardized,1,61.77099728356744
+Cell Salvage bowl stand,DEFAULT,Standardized,1,61.77099728356744
+Weighing scale,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ Apex knife tip,DEFAULT,Standardized,1,61.77099728356744
+Sonopet IQ Micro Claw tip,DEFAULT,Standardized,1,61.77099728356744
+McCulloch Retractors,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Mr Mohammad's Instruments,DEFAULT,Standardized,1,61.77099728356744
+Angled Bone Curettes,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Large Chloraprep stick,DEFAULT,Standardized,1,61.77099728356744
+Alcoholic Betadine,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Deformity Instruments,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Deformity Screwbox,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Deformity Rods & Cross Connectors,DEFAULT,Standardized,1,61.77099728356744
+XIA 3 Deformity Extras,DEFAULT,Standardized,1,61.77099728356744
+OIC Peek Cage Inst Consign Spinal Tray,DEFAULT,Standardized,1,61.77099728356744
+OIC Peek Cage Inst for Implants Tray,DEFAULT,Standardized,1,61.77099728356744
+Spine PLIF Mallet,DEFAULT,Standardized,1,61.77099728356744
+Mr Mohammad's Osteotomes,DEFAULT,Standardized,1,61.77099728356744
+Mr Mohammad's Anterior Release Tool/Knife,DEFAULT,Standardized,1,61.77099728356744
+Osteotomes x 9 Neuro Tray,DEFAULT,Standardized,1,61.77099728356744
+Hoffman Retractor,DEFAULT,Standardized,1,61.77099728356744
+Bone Mill spinal tray,DEFAULT,Standardized,1,61.77099728356744
+Bone Funnel,DEFAULT,Standardized,1,61.77099728356744
+Bone graft,DEFAULT,Standardized,1,61.77099728356744
+Stryker 90-degree tube bender,DEFAULT,Standardized,1,61.77099728356744
+Deformity Stryker Ilios Instruments,DEFAULT,Standardized,1,61.77099728356744
+Ilios Connector Tray,DEFAULT,Standardized,1,61.77099728356744
+Mr Elmalky Probes,DEFAULT,Standardized,1,61.77099728356744
+Mr Siddique Probes,DEFAULT,Standardized,1,61.77099728356744
+Mr Panikkar Probes,DEFAULT,Standardized,1,61.77099728356744
+Mr Verma Probes,DEFAULT,Standardized,1,61.77099728356744
+Mr Hassan Probes,DEFAULT,Standardized,1,61.77099728356744
+Mr Sabou XIA/Radius Probes,DEFAULT,Standardized,1,61.77099728356744
+Yankauer sucker,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill tray,DEFAULT,Standardized,1,61.77099728356744
+Stryker XIA Implants (rods/screws/blockers/cage),DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl undyed,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Dental syringe,DEFAULT,Standardized,1,61.77099728356744
+Dental needle,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+S2 drill,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Marker pen,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Quiver,DEFAULT,Standardized,1,61.77099728356744
+Lignospan cartridges,DEFAULT,Standardized,1,61.77099728356744
+Soft Tissue tray,DEFAULT,Standardized,1,61.77099728356744
+Thyroplasty tray,DEFAULT,Standardized,1,61.77099728356744
+3-0 Monocryl undyed,DEFAULT,Standardized,1,61.77099728356744
+½ inch steristrips,DEFAULT,Standardized,1,36.02199248799263
+1mm diamond burr,DEFAULT,Standardized,1,12.500255091469555
+2mm diamond burr,DEFAULT,Standardized,1,12.00374417276548
+2mm cutting burr,DEFAULT,Standardized,1,12.003744172765934
+Implant sizers,DEFAULT,Standardized,1,61.77099728356744
+Thyroplasty implants,DEFAULT,Standardized,1,61.77099728356744
+S2 drill console,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Rohini,0,61.76101346251994
+Small drapes,DEFAULT,Rohini,0,61.76101346251994
+9 Fraiser sucker,DEFAULT,Rohini,0,61.7610134625201
+Blade 10,DEFAULT,Rohini,0,61.7610134625201
+Blade 15,DEFAULT,Rohini,0,61.76101346251994
+3-0 Vicryl undyed,DEFAULT,Rohini,0,61.76101346251994
+Diathermy machine,DEFAULT,Rohini,0,61.76101346251994
+Bowl pack,DEFAULT,Rohini,0,61.76101346251994
+Dental syringe,DEFAULT,Rohini,0,61.76101346251994
+Dental needle,DEFAULT,Rohini,0,61.76101346251994
+Pack 4x4,DEFAULT,Rohini,0,61.76101346251994
+Suction tubing,DEFAULT,Rohini,0,61.76101346251994
+S2 drill,DEFAULT,Rohini,0,61.76101346251994
+Light handle,DEFAULT,Rohini,0,61.76101346251994
+Marker pen,DEFAULT,Rohini,0,61.76101346251994
+Suction device,DEFAULT,Rohini,0,61.76101346251994
+Trolley covers,DEFAULT,Rohini,0,61.76101346251994
+Quiver,DEFAULT,Rohini,0,61.76101346251994
+Lignospan cartridges,DEFAULT,Rohini,0,61.76101346251994
+Soft Tissue tray,DEFAULT,Rohini,0,61.76101346251994
+Thyroplasty tray,DEFAULT,Rohini,0,61.76101346251994
+3-0 Monocryl undyed,ADDED,Rohini,0,61.765311757022225
+3-0 Monocryl undyed,DEFAULT,Rohini,0,61.76101346251994
+½ inch steristrips,DEFAULT,Rohini,0,36.01200866694513
+1mm diamond burr,DEFAULT,Rohini,0,12.490271270422056
+2mm diamond burr,DEFAULT,Rohini,0,11.993760351717981
+2mm cutting burr,DEFAULT,Rohini,0,11.993760351718436
+Implant sizers,DEFAULT,Rohini,0,61.76101346251994
+Thyroplasty implants,DEFAULT,Rohini,0,61.76101346251994
+S2 drill console,DEFAULT,Rohini,0,61.76101346251994
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+"Adrenaline 1:10,000",DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Blue gauze,DEFAULT,Standardized,1,61.77099728356744
+Anti-mist,DEFAULT,Standardized,1,61.77099728356744
+ENT DLTB stack system,DEFAULT,Standardized,1,61.77099728356744
+Medtronic M4/M5 Microdebrider,DEFAULT,Standardized,1,61.77099728356744
+Electric drill console,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 1L,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Advanced Sinus Tray,DEFAULT,Standardized,1,61.77099728356744
+Sinus Telescopes 4mm tray,DEFAULT,Standardized,1,61.77099728356744
+Blue quick change camera drape,DEFAULT,Standardized,1,61.77099728356744
+Instrument pouch,DEFAULT,Standardized,1,61.77099728356744
+Nasopore,DEFAULT,Standardized,1,61.77099728356744
+Transnasal skullbase burr 4mm,DEFAULT,Standardized,1,61.77099728356744
+Oticomb ointment,DEFAULT,Standardized,1,61.77099728356744
+Syringe 2ml with blunt needle,DEFAULT,Standardized,1,61.77099728356744
+FESS tray,DEFAULT,Standardized,1,61.77099728356744
+Fusion Navigation Instruments,DEFAULT,Standardized,1,61.77099728356744
+Medtronic Tricut blade 11cmx4mm,DEFAULT,Standardized,1,61.77099728356744
+Thin silastic sheet,DEFAULT,Standardized,1,61.77099728356744
+Quadcut blade,DEFAULT,Standardized,1,61.77099728356744
+ENT stealth machine,DEFAULT,Standardized,1,61.77099728356744
+ENT Patient tracker,DEFAULT,Standardized,1,61.77099728356744
+40 degree Frontal Finesse burr,DEFAULT,Standardized,1,61.77099728356744
+70 degree Tapered Frontal burr,DEFAULT,Standardized,1,61.77099728356744
+Endoscrub black foot pedal,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill tray,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 9,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Laminectomy Spinal tray,DEFAULT,Standardized,1,61.77099728356744
+Fraiser sucker 6,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Mercian Curved scissors,DEFAULT,Standardized,1,61.77099728356744
+Mercian Straight scissors,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound cover,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 1-0,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Pack 12x12,DEFAULT,Standardized,1,61.77099728356744
+Posterior Fossa Retractors,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Mr Suroor's Periosteal elevators,DEFAULT,Standardized,1,61.77099728356744
+Codman perforator,DEFAULT,Standardized,1,61.77099728356744
+Duragen,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Blade 10,DEFAULT,Standardized,1,61.77099728356744
+Blade 15,DEFAULT,Standardized,1,61.77099728356744
+Vicryl 2-0,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+General Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+Proper surgicel,DEFAULT,Standardized,1,61.77099728356744
+Bag Normal Saline 3L,DEFAULT,Standardized,1,61.77099728356744
+Perforator drill piece,DEFAULT,Standardized,1,61.77099728356744
+Bactiseal EVD catheter and bag system,DEFAULT,Standardized,1,61.77099728356744
+Giving set,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab 4 Pin Array,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab Balls,DEFAULT,Standardized,1,61.77099728356744
+Spongostan,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab boxes,DEFAULT,Standardized,1,61.77099728356744
+4K stack,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Ventricularscope & Inst Minop,DEFAULT,Standardized,1,61.77099728356744
+Peel-away catheter,DEFAULT,Standardized,1,61.77099728356744
+Neuro Balloon catheter,DEFAULT,Standardized,1,61.77099728356744
+Basic camera scope cover,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab stylet,DEFAULT,Standardized,1,61.77099728356744
+3L pressure bag,DEFAULT,Standardized,1,61.77099728356744
+B/Braun Minop suction cannula sharp,DEFAULT,Standardized,1,61.77099728356744
+B/Braun Minop suction cannula blunt,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Catherine,0,61.76101346251994
+Neuro Bipolars,DEFAULT,Catherine,0,61.76101346251994
+Spinal pack,DEFAULT,Catherine,0,61.76101346251994
+Blade 15,DEFAULT,Catherine,0,61.76101346251994
+Vicryl 2-0,DEFAULT,Catherine,0,61.76101346251994
+Skin clips,DEFAULT,Catherine,0,61.76101346251994
+General Diathermy machine,DEFAULT,Catherine,0,61.76101346251994
+Bone wax,DEFAULT,Catherine,0,61.76101346251994
+Blade 11,ADDED,Catherine,0,61.765311757022225
+Neuro tubing,DEFAULT,Catherine,0,61.76101346251994
+MR8 electric drill,DEFAULT,Catherine,0,61.76101346251994
+Craniotomy drape,DEFAULT,Catherine,0,61.76101346251994
+Small absorbent drapes,DEFAULT,Catherine,0,61.76101346251994
+Proper surgicel,DEFAULT,Catherine,0,61.76101346251994
+Bag Normal Saline 3L,DEFAULT,Catherine,0,61.76101346251994
+Perforator drill piece,DEFAULT,Catherine,0,61.76101346251994
+Bactiseal EVD catheter and bag system,DEFAULT,Catherine,0,61.76101346251994
+Giving set,DEFAULT,Catherine,0,61.76101346251994
+Brain Lab Balls,DEFAULT,Catherine,0,61.76101346251994
+Spongostan,DEFAULT,Catherine,0,61.76101346251994
+4K stack,DEFAULT,Catherine,0,61.76101346251994
+MR8 drill console,DEFAULT,Catherine,0,61.76101346251994
+Little Lotta endoscope,ADDED,Catherine,0,61.765311757022225
+Peel-away catheter,DEFAULT,Catherine,0,61.76101346251994
+Neuro Balloon catheter,DEFAULT,Catherine,0,61.76101346251994
+Basic camera scope cover,DEFAULT,Catherine,0,61.76101346251994
+Brain Lab stylet,DEFAULT,Catherine,0,61.76101346251994
+3L pressure bag,DEFAULT,Catherine,0,61.76101346251994
+MR8 3mm matchstick drill (purple),DEFAULT,Catherine,0,61.76101346251994
+Stealth machine,ADDED,Catherine,0,61.765311757022225
+Stealth EM stylet,ADDED,Catherine,0,61.765311757022225
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Spinal Ioban drape,DEFAULT,Standardized,1,61.770997283567596
+C-arm cover,DEFAULT,Standardized,1,61.770997283567596
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Laparotomy Quiver,DEFAULT,Standardized,1,61.77099728356744
+Skin glue,DEFAULT,Standardized,1,61.77099728356744
+Muscle Biopsy tray,DEFAULT,Standardized,1,61.77099728356744
+Vaporflex Bi-polar,DEFAULT,Standardized,1,61.77099728356744
+Shrill Drill,DEFAULT,Standardized,1,61.77099728356744
+White camera sleeve,DEFAULT,Standardized,1,61.77099728356744
+Small softpore dressing,DEFAULT,Standardized,1,61.77099728356744
+Irrigation tubing,DEFAULT,Standardized,1,61.77099728356744
+Ball tip drill bit (Blue),DEFAULT,Standardized,1,61.77099728356744
+Joimax Stack System,DEFAULT,Standardized,1,61.77099728356744
+Tessys Endoscopic 1 of 2 –blue lid,DEFAULT,Standardized,1,61.77099728356744
+Tessys Endoscopic 2 of 2 –blue lid,DEFAULT,Standardized,1,61.77099728356744
+Joimax Access Kit,DEFAULT,Standardized,1,61.77099728356744
+C-arm with monitor,DEFAULT,Standardized,1,61.77099728356744
+Large drapes,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+Pack 4x4,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+Sharps box,DEFAULT,Standardized,1,61.77099728356744
+Light handle,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Large isolation drape (Ioban),DEFAULT,Standardized,1,61.77099728356744
+C-arm drape,DEFAULT,Standardized,1,61.77099728356744
+Trolley covers,DEFAULT,Standardized,1,61.77099728356744
+Laparotomy Quiver,DEFAULT,Standardized,1,61.77099728356744
+Skin glue,DEFAULT,Standardized,1,61.77099728356744
+Muscle Biopsy tray,DEFAULT,Standardized,1,61.77099728356744
+Ilessys Pro Endoscopic 1 of 2 – red lid,DEFAULT,Standardized,1,61.77099728356744
+Ilessys Pro Endoscopic 2 of 2 – red lid,DEFAULT,Standardized,1,61.77099728356744
+Vaporflex Bi-polar,DEFAULT,Standardized,1,61.77099728356744
+Shrill Drill,DEFAULT,Standardized,1,61.77099728356744
+White camera sleeve,DEFAULT,Standardized,1,61.77099728356744
+Small softpore dressing,DEFAULT,Standardized,1,61.77099728356744
+Irrigation tubing,DEFAULT,Standardized,1,61.77099728356744
+Bipolar tip (Red stripe),DEFAULT,Standardized,1,61.77099728356744
+Ball tip drill bit (Blue),DEFAULT,Standardized,1,61.77099728356744
+Joimax Stack System,DEFAULT,Standardized,1,61.77099728356744
+C-arm with monitor,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Small drapes,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Vessel loops,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Skin clips,DEFAULT,Standardized,1,61.77099728356744
+Kinevo Microscope,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+4x4 Pack,DEFAULT,Standardized,1,61.77099728356744
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Bone wax,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis cable,DEFAULT,Standardized,1,61.77099728356744
+Universal Consigned Screwdriver,DEFAULT,Standardized,1,61.77099728356744
+Arachnoid knife straight,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Large square patties,DEFAULT,Standardized,1,61.77099728356744
+Codman strips,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound,DEFAULT,Standardized,1,61.77099728356744
+AVM Instruments Tray 2,DEFAULT,Standardized,1,61.77099728356744
+Yasargil Aneurysm Clip Appliers & Removers,DEFAULT,Standardized,1,61.77099728356744
+Yasargil Aneurysm Clips STD and Mini clips,DEFAULT,Standardized,1,61.77099728356744
+Budde Halo,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Kinevo microscope drape,DEFAULT,Standardized,1,61.77099728356744
+Leggings,DEFAULT,Standardized,1,61.77099728356744
+12x12 Pack,DEFAULT,Standardized,1,61.77099728356744
+Brackmann sucker,DEFAULT,Standardized,1,61.77099728356744
+Brain retractor 10mm,DEFAULT,Standardized,1,61.77099728356744
+Proper surgicel,DEFAULT,Standardized,1,61.77099728356744
+Craniotome cutter,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis forceps,DEFAULT,Standardized,1,61.77099728356744
+Verdye 5mg/ml,DEFAULT,Standardized,1,61.77099728356744
+Papaverine 40mg/1ml,DEFAULT,Standardized,1,61.77099728356744
+Colorado needle,DEFAULT,Standardized,1,61.77099728356744
+Head bandage,DEFAULT,Standardized,1,61.77099728356744
+Black chair,DEFAULT,Standardized,1,61.77099728356744
+Giving set,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Jug,DEFAULT,Standardized,1,61.77099728356744
+Melolin,DEFAULT,Standardized,1,61.77099728356744
+4-0 PDS,DEFAULT,Standardized,1,61.77099728356744
+Braun Bypass Instruments,DEFAULT,Standardized,1,61.77099728356744
+Mr. Patel’s Instruments,DEFAULT,Standardized,1,61.77099728356744
+Brescia Renal tray,DEFAULT,Standardized,1,61.77099728356744
+Muscle Biopsy tray,DEFAULT,Standardized,1,61.77099728356744
+Yellow paediatric needle,DEFAULT,Standardized,1,61.77099728356744
+10-0 Ethilon,DEFAULT,Standardized,1,61.77099728356744
+9-0 Ethilon,DEFAULT,Standardized,1,61.77099728356744
+Visible background,DEFAULT,Standardized,1,61.77099728356744
+Drug label stickers,DEFAULT,Standardized,1,61.77099728356744
+Heparin Sod 1000 IU/L in 0.9% Sod Chloride 500 Bag,DEFAULT,Standardized,1,61.77099728356744
+Mini plates and screws,DEFAULT,Standardized,1,61.77099728356744
+Blue fish hook,DEFAULT,Standardized,1,61.77099728356744
+Yellow fish hook,DEFAULT,Standardized,1,61.77099728356744
+MR8 3mm matchstick drill (purple),DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl for dura,DEFAULT,Standardized,1,61.77099728356744
+Neuro set up,DEFAULT,Standardized,1,61.77099728356744
+Neuro Bipolars,DEFAULT,Standardized,1,61.77099728356744
+Spinal pack,DEFAULT,Standardized,1,61.77099728356744
+Pentero Microscope cover,DEFAULT,Standardized,1,61.77099728356744
+9 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Tonsil swabs packs,DEFAULT,Standardized,1,61.77099728356744
+10 Blade,DEFAULT,Standardized,1,61.77099728356744
+15 Blade,DEFAULT,Standardized,1,61.77099728356744
+2-0 Vicryl,DEFAULT,Standardized,1,61.77099728356744
+Diathermy machine,DEFAULT,Standardized,1,61.77099728356744
+Bowl pack,DEFAULT,Standardized,1,61.77099728356744
+4 x 4 pack,DEFAULT,Standardized,1,21.49860410912244
+Medium long patties,DEFAULT,Standardized,1,61.77099728356744
+Suction tubing,DEFAULT,Standardized,1,61.77099728356744
+6 Fraiser sucker,DEFAULT,Standardized,1,61.77099728356744
+Small square patties,DEFAULT,Standardized,1,61.77099728356744
+Blunt needle,DEFAULT,Standardized,1,61.77099728356744
+Brain Tumour Tray,DEFAULT,Standardized,1,61.77099728356744
+Mercian Curved scissors,DEFAULT,Standardized,1,61.77099728356744
+Mercian Straight scissors,DEFAULT,Standardized,1,61.77099728356744
+Rhoton Dissectors,DEFAULT,Standardized,1,61.77099728356744
+Suction device,DEFAULT,Standardized,1,61.77099728356744
+Universal Screwdriver,DEFAULT,Standardized,1,61.77099728356744
+Neuro tubing,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound cover,DEFAULT,Standardized,1,61.77099728356744
+Specimen jar,DEFAULT,Standardized,1,61.77099728356744
+Micro patties,DEFAULT,Standardized,1,61.77099728356744
+Large square patties,DEFAULT,Standardized,1,61.77099728356744
+Codman strips,DEFAULT,Standardized,1,61.77099728356744
+Ultrasound,DEFAULT,Standardized,1,61.77099728356744
+MR8 electric drill,DEFAULT,Standardized,1,61.77099728356744
+Craniotomy drape,DEFAULT,Standardized,1,61.77099728356744
+Small absorbent drapes,DEFAULT,Standardized,1,61.77099728356744
+12 x 12 pack,DEFAULT,Standardized,1,15.994889982830202
+Brain retractor 10mm or 12.5mm,DEFAULT,Standardized,1,61.77099728356744
+Craniotome cutter,DEFAULT,Standardized,1,61.77099728356744
+Rubber bands,DEFAULT,Standardized,1,61.77099728356744
+Medium opsite dressing,DEFAULT,Standardized,1,61.77099728356744
+Head bandage,DEFAULT,Standardized,1,61.77099728356744
+Floseal,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab 4 Pin Array,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab boxes,DEFAULT,Standardized,1,61.77099728356744
+Brain Lab,DEFAULT,Standardized,1,61.77099728356744
+Pentero microscope,DEFAULT,Standardized,1,61.77099728356744
+MR8 drill console,DEFAULT,Standardized,1,61.77099728356744
+Codman perforator,DEFAULT,Standardized,1,61.77099728356744
+Yellow fish hook,DEFAULT,Standardized,1,61.77099728356744
+Doro Luna J-Arm Retractor 1 of 2,DEFAULT,Standardized,1,61.77099728356744
+Doro Luna J-Arm Retractor 2 of 2,DEFAULT,Standardized,1,61.77099728356744
+Penfield tray,DEFAULT,Standardized,1,61.77099728356744
+Mr D’Urso Heifetz Tumour Holding Forceps,DEFAULT,Standardized,1,61.77099728356744
+Speitzler Mallis cable,DEFAULT,Standardized,1,61.77099728356744
+Craniofix tray,DEFAULT,Standardized,1,61.77099728356744
+Dandy cannula,DEFAULT,Standardized,1,61.77099728356744
+Extra large long patties,DEFAULT,Standardized,1,61.77099728356744
+3-0 Vicryl for dura,DEFAULT,Standardized,1,61.77099728356744
+CUSA 36hz tray,DEFAULT,Standardized,1,61.77099728356744
+CUSA tubing,DEFAULT,Standardized,1,61.77099728356744
+CUSA standard tip,DEFAULT,Standardized,1,61.77099728356744
+CUSA wrench,DEFAULT,Standardized,1,61.770997283567596
+CUSA console,DEFAULT,Standardized,1,61.770997283567596

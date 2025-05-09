@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import pandas as pd
 import os
-from preprocessing import preprocess_dataset, preprocess_image
-from prediction_model import predict_material_prices, detect_tools, match_tools, calculate_tray_cost
+from preprocessing import preprocess_dataset
+from prediction_model import predict_material_prices
 
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
@@ -20,24 +20,23 @@ def upload_dataset():
     file_path = os.path.join(UPLOAD_FOLDER, file.filename)
     file.save(file_path)
     
-    # Load and preprocess dataset (assume testing data, no prices)
+    # Load and preprocess dataset
     data = pd.read_csv(file_path)
-    preprocessed_data = preprocess_dataset(data, is_training=False)
+    preprocessed_data = preprocess_dataset(data)
     
     # Predict prices
     predictions = predict_material_prices(preprocessed_data)
     
-    # Group predictions by procedure (mock procedure IDs for simplicity)
+    # Check if dataset has price column
+    has_prices = 'price' in data.columns
+    
+    # Create results
     results = []
     for i, pred in enumerate(predictions):
-        results.append({
-            "procedure_id": i + 1901,  # Mock ID
-            "material_name": data['material_name'].iloc[i],
-            "specialty": data['specialty'].iloc[i],
-            "procedure": data['procedure'].iloc[i],
-            "is_default": data['is_default'].iloc[i],
-            "predicted_price": pred
-        })
+        result = {"procedure_id": i + 1901, "optimized_cost": pred}
+        if has_prices:
+            result["default_cost"] = data['price'].iloc[i]
+        results.append(result)
     
     return jsonify({"predictions": results})
 
@@ -56,7 +55,7 @@ def upload_dataset():
 #     # Detect tools
 #     tools = detect_tools(image_path)
     
-#     # Match tools to materials and predict prices
+#     # Match tools to materials
 #     matched_tools = match_tools(tools)
     
 #     # Calculate total cost

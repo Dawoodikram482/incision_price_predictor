@@ -1,27 +1,56 @@
-# Use Python 3.9 with a slim base image to keep the container size small
-FROM python:3.9-slim
+# syntax=docker/dockerfile:1
 
-# Set the working directory inside the container to /app
+# Comments are provided throughout this file to help you get started.
+# If you need more help, visit the Dockerfile reference guide at
+# https://docs.docker.com/engine/reference/builder/
+
+ARG PYTHON_VERSION=3.12.6
+FROM python:${PYTHON_VERSION}-slim as base
+
+# Prevents Python from writing pyc files.
+ENV PYTHONDONTWRITEBYTECODE=1
+
+# Keeps Python from buffering stdout and stderr to avoid situations where
+# the application crashes without emitting any logs due to buffering.
+ENV PYTHONUNBUFFERED=1
+
 WORKDIR /app
 
-# Copy the requirements.txt file from your local machine to the container
-COPY requirements.txt .
+# Create a non-privileged user that the app will run under.
+# See https://docs.docker.com/go/dockerfile-user-best-practices/
+ARG UID=10001
+RUN adduser \
+    --disabled-password \
+    --gecos "" \
+    --home "/nonexistent" \
+    --shell "/sbin/nologin" \
+    --no-create-home \
+    --uid "${UID}" \
+    appuser
 
-# Install Python dependencies from requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+# Set a writable cache directory for PyTorch
+ENV TORCH_HOME=/app/.cache/torch
 
-# Copy the rest of your application code into the container
+# Create the cache directory and ensure it is writable
+RUN mkdir -p /app/.cache/torch && chown appuser:appuser /app/.cache/torch
+
+# Download dependencies as a separate step to take advantage of Docker's caching.
+# Leverage a cache mount to /root/.cache/pip to speed up subsequent builds.
+# Leverage a bind mount to requirements.txt to avoid having to copy them into
+# into this layer.
+RUN --mount=type=cache,target=/root/.cache/pip \
+    --mount=type=bind,source=requirements.txt,target=requirements.txt \
+    python -m pip install -r requirements.txt
+
+# Switch to the non-privileged user to run the application.
+USER appuser
+
+# Copy the source code into the container.
 COPY . .
 
-# Inform Docker that the container will listen on port 5000
+# Expose the port that the application listens on.
 EXPOSE 5000
 
-# Set environment variables for Flask
-ENV FLASK_DEBUG=false
-
-# Use an environment variable to determine the command
-ARG ENV=production
-ENV ENV=${ENV}
-
-# Default to production command
-CMD if [ "$ENV" = "development" ]; then flask --app app.py run --host=0.0.0.0; else gunicorn -w 4 -b 0.0.0.0:5000 app:create_app(); fi
+# Run the application.
+# CMD gunicorn '.venv.Lib.site-packages.gunicorn.http.wsgi' --bind=0.0.0.0:5000
+CMD ["flask", "--app", "app.py", "run"]

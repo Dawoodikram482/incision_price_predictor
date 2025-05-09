@@ -1,14 +1,14 @@
 import joblib
 import pandas as pd
-import torch
-from fuzzywuzzy import process
-import os
+# import torch
+# from fuzzywuzzy import process
+# import os
 
 # Load models and dataset
-ridge_model = joblib.load("model_weights.joblib")
-yolov5_model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5_weights.pt', force_reload=True)
-material_data = pd.read_csv("data/train/cleaned_data.csv")
-material_names = material_data['material_name'].unique().tolist()
+ridge_model = joblib.load("models/model_weights.joblib")
+# yolov5_model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5_weights.pt', force_reload=True)
+# material_data = pd.read_csv("data/train/cleaned_data.csv")
+# material_names = material_data['material_name'].unique().tolist()
 
 def predict_material_prices(data):
     """

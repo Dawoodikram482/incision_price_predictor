@@ -35,3 +35,4 @@ torch
 torchvision
 Pillow
 joblib
+xgboost

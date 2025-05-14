@@ -1,0 +1,14 @@
+How the Model Works
+This model predicts the cost of surgical materials using an XGBoost regressor trained on combined text data (like material name, type, and surgeon name). It uses feature hashing to efficiently convert text into numeric form.
+
+Once trained, the model:
+
+Predicts prices for each material.
+
+Finds the lowest predicted price for each material globally.
+
+Compares it with the actual price (if available), and uses the cheaper of the two.
+
+Optimizes the total procedure cost by selecting these lowest-cost materials.
+
+The result is a cost-optimized recommendation per procedure.

@@ -48,9 +48,10 @@ USER appuser
 # Copy the source code into the container.
 COPY . .
 
-# Expose the port that the application listens on.
+# Tell Flask which app and to listen on 0.0.0.0
+ENV FLASK_APP=app.py
+ENV FLASK_RUN_HOST=0.0.0.0
 EXPOSE 5000
 
-# Run the application.
-# CMD gunicorn '.venv.Lib.site-packages.gunicorn.http.wsgi' --bind=0.0.0.0:5000
-CMD ["flask", "--app", "app.py", "run"]
+# Run via flask CLI
+CMD ["flask", "run", "--port", "5000"]

@@ -4,41 +4,54 @@ import os
 from preprocessing import preprocess_dataset
 from prediction_model import predict_material_prices
 
-app = Flask(__name__)
-UPLOAD_FOLDER = 'uploads'
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
+app = Flask(__name__)
+UPLOAD_FOLDER = '/tmp/uploads'
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 @app.route('/upload-dataset', methods=['POST'])
 def upload_dataset():
-    if 'file' not in request.files:
-        return jsonify({"error": "No file provided"}), 400
-    
-    file = request.files['file']
-    if not file.filename.endswith('.csv'):
-        return jsonify({"error": "File must be a CSV"}), 400
-    
-    file_path = os.path.join(UPLOAD_FOLDER, file.filename)
-    file.save(file_path)
-    
-    # Load and preprocess dataset
-    data = pd.read_csv(file_path)
-    preprocessed_data = preprocess_dataset(data)
-    
-    # Predict prices
-    predictions = predict_material_prices(preprocessed_data)
-    
-    # Check if dataset has price column
-    has_prices = 'price' in data.columns
-    
-    # Create results
-    results = []
-    for i, pred in enumerate(predictions):
-        result = {"procedure_id": i + 1901, "optimized_cost": pred}
-        if has_prices:
-            result["default_cost"] = data['price'].iloc[i]
-        results.append(result)
-    
-    return jsonify({"predictions": results})
+    try:
+        if 'file' not in request.files:
+            return jsonify({"error": "No file provided"}), 400
+
+        file = request.files['file']
+        if not file.filename.endswith('.csv'):
+            return jsonify({"error": "File must be a CSV"}), 400
+
+        file_path = os.path.join(UPLOAD_FOLDER, file.filename)
+        file.save(file_path)
+
+        data = pd.read_csv(file_path)
+
+        # Preprocessing and model prediction
+        prediction_series = preprocess_dataset(data)
+        data['optimized_cost'] = prediction_series
+
+        # Optionally include original price if available
+        has_prices = 'price' in data.columns
+        results = []
+        for i, row in data.iterrows():
+            result = {
+                "procedure_id": i + 1901,
+                "material_name": row.get("material_name"),
+                "material_type": row.get("material_type"),
+                "optimized_cost": round(row['optimized_cost'], 2)
+            }
+            if has_prices:
+                result["default_cost"] = row['price']
+            results.append(result)
+
+        return jsonify({"predictions": results})
+
+    except Exception as e:
+        import traceback
+        print("==== ERROR DURING /upload-dataset ====")
+        traceback.print_exc()
+        return jsonify({"error": str(e)}), 500
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
 
 # @app.route('/tray-cost', methods=['POST'])
 # def tray_cost():

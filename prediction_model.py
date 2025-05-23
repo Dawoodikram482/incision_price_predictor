@@ -11,13 +11,11 @@ ridge_model = joblib.load("models/model_weights.joblib")
 # material_names = material_data['material_name'].unique().tolist()
 
 def predict_material_prices(data):
-    """
-    Predict material prices using the Ridge Regression model.
-    Input: Preprocessed pandas DataFrame
-    Output: List of predicted prices
-    """
-    predictions = ridge_model.predict(data)
+    pipeline = joblib.load("models/model_weights.joblib")
+    model = pipeline['model']
+    predictions = model.predict(data)
     return predictions.tolist()
+
 
 # def detect_tools(image_path):
 #     """

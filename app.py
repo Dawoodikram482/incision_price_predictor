@@ -32,11 +32,16 @@ def upload_dataset():
         results = []
         for i, row in data.iterrows():
             result = {
-                "procedure_id": i + 1901,
-                "material_name": row.get("material_name"),
-                "material_type": row.get("material_type"),
-                "optimized_cost": round(row['optimized_cost'], 2)
+                "procedure_id":               row.get("procedure_id"),
+                "material_name":              row.get("material_name"),
+                "surgeon_fullname_train":     row.get("surgeon_fullname_train"),
+                "original_price_train":       row.get("original_price_train"),
+                "surgeon_specific_action":    row.get("surgeon_specific_action_train"),
+                "original_total_cost":        row.get("original_total_cost"),
+                "optimized_price":            row.get("optimized_price"),
+                "optimized_cost":             round(row['optimized_cost'], 2),
             }
+
             if has_prices:
                 result["default_cost"] = row['price']
             results.append(result)

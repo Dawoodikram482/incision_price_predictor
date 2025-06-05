@@ -1,5 +1,6 @@
 import joblib
 import pandas as pd
+from feature_hasher_transformer import FeatureHasherTransformer
 # import torch
 # from fuzzywuzzy import process
 # import os

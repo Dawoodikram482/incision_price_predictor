@@ -6,7 +6,7 @@ from feature_hasher_transformer import FeatureHasherTransformer
 # import os
 
 # Load models and dataset
-ridge_model = joblib.load("models/model_weights.joblib")
+xgboost_model = joblib.load("models/model_weights.joblib")
 # yolov5_model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5_weights.pt', force_reload=True)
 # material_data = pd.read_csv("data/train/cleaned_data.csv")
 # material_names = material_data['material_name'].unique().tolist()

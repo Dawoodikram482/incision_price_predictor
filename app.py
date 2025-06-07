@@ -2,16 +2,10 @@ from flask import Flask, request, jsonify
 import pandas as pd
 import numpy as np
 import os
-
-# Assume these two functions exist and work as expected:
-#  - preprocess_dataset(df) → pd.Series (log‐space or raw predictions)
-#  - predict_material_prices(series_of_combined_features) → np.ndarray of final prices
 from preprocessing import preprocess_dataset
 from prediction_model import predict_material_prices
 
-# ================================================================
 # 1) LOAD TRAINING DATA AND BUILD LOOKUPS (once, at startup)
-# ================================================================
 TRAIN_CSV = "data/train/cleaned_data.csv"
 TRAIN_DF = pd.read_csv(TRAIN_CSV)
 
@@ -60,9 +54,7 @@ historical_min_prices = TRAIN_DF.groupby("material_name")["material_price"].min(
 MIN_TRAIN_PRICE = float(TRAIN_DF["material_price"].min())
 
 
-# ================================================================
 # 2) HELPER: get_cheapest_price(row)
-# ================================================================
 def get_cheapest_price(row):
     mat = row["material_name"]
     if pd.isna(mat) or mat not in historical_min_prices:
@@ -70,28 +62,59 @@ def get_cheapest_price(row):
     return float(historical_min_prices[mat]), "historical"
 
 
-# ================================================================
-# 3) FLASK APP DEFINITION
-# ================================================================
+
+
+# 3) Flask
+REQUIRED_COLUMNS = {"material_name", "material_type", "material_subtype", "surgeon_name", "surgeon_surname", "procedure_name", "procedure_id", "surgeon_specific_action"}  
+
 app = Flask(__name__)
 UPLOAD_FOLDER = "/tmp/uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-
 @app.route("/upload-dataset", methods=["POST"])
 def upload_dataset():
     try:
-        # 3a) Check file presence
+           # 1) Check file presence & extension
         if "file" not in request.files:
             return jsonify({"error": "No file provided"}), 400
-
         file = request.files["file"]
-        if not file.filename.endswith(".csv"):
+        if not file.filename.lower().endswith(".csv"):
             return jsonify({"error": "File must be a CSV"}), 400
 
-        # 3b) Save uploaded CSV
+        # 2) Read header
+        try:
+            df_header = pd.read_csv(file.stream, nrows=0)
+        except Exception as e:
+            return jsonify({"error": f"Could not read CSV header: {e}"}), 400
+
+        # 3) Normalize columns
+        #    - strip whitespace
+        #    - drop BOM if present
+        #    - lowercase
+        incoming = [
+            col.strip().lstrip("\ufeff").lower() 
+            for col in df_header.columns
+        ]
+        normalized_required = {col.lower() for col in REQUIRED_COLUMNS}
+
+        missing = normalized_required - set(incoming)
+        if missing:
+            # Return both the normalized incoming list and what’s missing
+            return (
+                jsonify({
+                    "error": "CSV is missing required columns",
+                    "incoming_columns": incoming,
+                    "missing_columns": sorted(list(missing))
+                }),
+                400
+            )
+
+        # 4) Rewind and save the file for full read
+        file.stream.seek(0)
         file_path = os.path.join(UPLOAD_FOLDER, file.filename)
         file.save(file_path)
+
+        # 5) Read your data and continue…
         data = pd.read_csv(file_path)
 
         # 3c) PREPROCESS test‐side data

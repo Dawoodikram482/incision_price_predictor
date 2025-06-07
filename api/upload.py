@@ -77,7 +77,7 @@ def upload_dataset():
                 jsonify({"error": f"Materials not found in training data: {missing_materials}"}),
                 400,
             )
-        data["material_price"] = data["material_name"].map(historical_min_prices)
+        #data["material_price"] = data["material_name"].map(historical_min_prices)
 
         # 3g) Merge with lookup to get train_surgeon_fullname, train_material_price, train_surgeon_specific_action
         data = data.merge(

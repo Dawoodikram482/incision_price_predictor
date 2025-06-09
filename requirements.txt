@@ -36,3 +36,5 @@ torchvision
 Pillow
 joblib
 xgboost
+Flask-SQLAlchemy
+psycopg2-binary

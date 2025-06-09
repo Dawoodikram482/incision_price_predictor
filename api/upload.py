@@ -154,7 +154,6 @@ def upload_dataset():
             rec["procedure_optimized_cost"] = float(opt_cost)
             results.append(rec)
 
-
     # Insert or update records in the database
     for record in results:
         # 1. Speciality (if not exists)

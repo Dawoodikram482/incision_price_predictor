@@ -33,7 +33,7 @@ upload_bp = Blueprint("upload", __name__)
 @upload_bp.route("/upload-dataset", methods=["POST"])
 def upload_dataset():
         if "file" not in request.files:
-            return jsonify({"error": "No file provided"}), 400
+            return jsonify({"error": "The file is required."}), 400
 
         file = request.files["file"]
         if not file.filename.lower().endswith(".csv"):

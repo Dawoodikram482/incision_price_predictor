@@ -2,6 +2,7 @@
 from flask import Flask
 from flask_cors import CORS
 from api.upload import upload_bp
+from api.speciality import speciality_bp
 from extensions import db
 import os
 
@@ -19,7 +20,8 @@ def create_app():
 
     # register your blueprint under the root URL (or use a prefix)
     app.debug = True
-    app.register_blueprint(upload_bp, url_prefix="")
+    app.register_blueprint(upload_bp, url_prefix="/api")
+    app.register_blueprint(speciality_bp, url_prefix="/api")
 
     return app
 

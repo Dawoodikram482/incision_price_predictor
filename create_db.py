@@ -1,6 +1,6 @@
 from app import app
 from extensions import db
-from models import User
+from models import Speciality, Surgeon, Procedure, Material, ProcedureMaterial, ProcedureSurgeon
 
 if __name__ == '__main__':
     with app.app_context():

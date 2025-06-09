@@ -1,5 +1,8 @@
 material_id,material_name,material_original_price,material_optimized_price,material_type,material_subtype,specialty,procedure_id,procedure_name,procedure_original_cost,procedure_optimized_cost,price_source,surgeon_fullname,surgeon_specific_action
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4e19ae3 (missing to unknown)
 77943,receivers and gallipots,10.99,7.99,DISPOSABLE,OTHER_DISPOSABLES,,1,Excision of Thyroglossal Cyst or Sistrunk Procedure,3294.7599999999998,1583.38,historical,unknown,DEFAULT
 78079,steri-strips,8.99,8.99,DISPOSABLE,OTHER_DISPOSABLES,,1,Excision of Thyroglossal Cyst or Sistrunk Procedure,3294.7599999999998,1583.38,historical,unknown,DEFAULT
 77852,pack 4x4,13.99,7.99,DISPOSABLE,OTHER_DISPOSABLES,,1,Excision of Thyroglossal Cyst or Sistrunk Procedure,3294.7599999999998,1583.38,historical,unknown,DEFAULT
@@ -1369,6 +1372,7 @@ material_id,material_name,material_original_price,material_optimized_price,mater
 77821,15 blade,11.99,7.99,DISPOSABLE,OTHER_DISPOSABLES,,52376,Temporal lobectomy (Amygdalohippocampectomy),4840.87,4694.869999999997,historical,unknown,DEFAULT
 86340,craniofix tray,46.04,46.04,INSTRUMENT,missing,,52376,Temporal lobectomy (Amygdalohippocampectomy),4840.87,4694.869999999997,historical,unknown,DEFAULT
 77811,neuro set up,34.7,34.7,INSTRUMENT,missing,,52376,Temporal lobectomy (Amygdalohippocampectomy),4840.87,4694.869999999997,historical,unknown,DEFAULT
+<<<<<<< HEAD
 =======
 78312,thyroid tray,129.1,127.1,INSTRUMENT,missing,,1,Excision of Thyroglossal Cyst or Sistrunk Procedure,1642.3799999999999,1583.3799999999999,historical,missing missing,DEFAULT
 77852,pack 4x4,13.99,7.99,DISPOSABLE,OTHER_DISPOSABLES,,1,Excision of Thyroglossal Cyst or Sistrunk Procedure,1642.3799999999999,1583.3799999999999,historical,missing missing,DEFAULT
@@ -2740,3 +2744,5 @@ material_id,material_name,material_original_price,material_optimized_price,mater
 77831,diathermy machine,446.07,446.07,OTHER,DEVICE,,52376,Temporal lobectomy (Amygdalohippocampectomy),4840.869999999998,4694.87,historical,missing missing,DEFAULT
 87293,cusa console,17.19,12.19,OTHER,missing,,52376,Temporal lobectomy (Amygdalohippocampectomy),4840.869999999998,4694.87,historical,missing missing,DEFAULT
 >>>>>>> 462af2a (api v3)
+=======
+>>>>>>> 4e19ae3 (missing to unknown)

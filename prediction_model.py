@@ -1,23 +1,22 @@
 import joblib
 import pandas as pd
+from feature_hasher_transformer import FeatureHasherTransformer
 # import torch
 # from fuzzywuzzy import process
 # import os
 
 # Load models and dataset
-ridge_model = joblib.load("models/model_weights.joblib")
+xgboost_model = joblib.load("models/model_weights.joblib")
 # yolov5_model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5_weights.pt', force_reload=True)
 # material_data = pd.read_csv("data/train/cleaned_data.csv")
 # material_names = material_data['material_name'].unique().tolist()
 
 def predict_material_prices(data):
-    """
-    Predict material prices using the Ridge Regression model.
-    Input: Preprocessed pandas DataFrame
-    Output: List of predicted prices
-    """
-    predictions = ridge_model.predict(data)
+    pipeline = joblib.load("models/model_weights.joblib")
+    model = pipeline['model']
+    predictions = model.predict(data)
     return predictions.tolist()
+
 
 # def detect_tools(image_path):
 #     """

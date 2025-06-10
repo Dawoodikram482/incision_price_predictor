@@ -3,35 +3,35 @@ import numpy as np
 from PIL import Image
 import joblib
 
-def preprocess_dataset(data, is_training=False):
+def preprocess_dataset(data):
     """
-    Preprocess input dataset for Ridge Regression model.
-    Assumes data is a pandas DataFrame with columns: material_name, surgeon_specific_action, surgeon_name.
+    Preprocess the data and return a Series of actual price predictions.
+    The model outputs log-prices, so we exponentiate to get back to real prices.
     """
-    # Create is_default column based on surgeon_name (as in ridge_regression.py)
-    data['surgeon_name'] = data['surgeon_name'].fillna("Standardized")
-    data['is_default'] = (data['surgeon_name'] == "Standardized").astype(int)
+    text_columns = [
+        'material_name',
+        'material_type',
+        'material_subtype',
+        'surgeon_name',
+        'procedure_name'
+    ]
 
-    # One-hot encode categorical columns based on ridge_regression.py
-    categorical_cols = ['material_name', 'surgeon_specific_action']
-    data_encoded = pd.get_dummies(data, columns=[col for col in categorical_cols if col in data.columns], prefix=['mat', 'action'])
-    
-    # Load the pipeline components
-    pipeline = joblib.load('models/model_weights.joblib')
-    feature_names = pipeline['important_features']
-    scaler = pipeline['scaler']
-    
-    # Align the new data with the training feature set
-    data_aligned = pd.DataFrame(0, index=data.index, columns=feature_names)
-    for col in data_encoded.columns:
-        if col in feature_names:
-            data_aligned[col] = data_encoded[col]
-    data_aligned['is_default'] = data['is_default']
-    
-    # Apply the scaler
-    data_scaled = scaler.transform(data_aligned)
-    
-    return data_scaled
+    # Clean text columns
+    data[text_columns] = data[text_columns].fillna('missing').astype(str)
+
+    # Create combined text feature
+    data['combined_features'] = data[text_columns].agg(' '.join, axis=1)
+
+    # Load trained pipeline
+    bundle = joblib.load('models/model_weights.joblib')
+    pipeline = bundle['model'] if isinstance(bundle, dict) else bundle
+
+    # Predict log(price), then back-transform
+    log_preds = pipeline.predict(data['combined_features'])
+    price_preds = np.exp(log_preds)
+
+    # Return Series aligned with input data
+    return pd.Series(price_preds, index=data.index, name='prediction')
 
 # def preprocess_image(image_path):
 #     """

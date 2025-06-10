@@ -4,6 +4,8 @@ from flask_cors import CORS
 from api.upload import upload_bp
 from api.speciality import speciality_bp
 from api.procedure_detail import procedure_detail_bp
+from api.procedure_summary import procedure_summary_bp
+from api.material_breakdown import material_breakdown_bp
 from extensions import db
 import os
 
@@ -24,6 +26,8 @@ def create_app():
     app.register_blueprint(upload_bp, url_prefix="/api")
     app.register_blueprint(speciality_bp, url_prefix="/api")
     app.register_blueprint(procedure_detail_bp, url_prefix="/api")
+    app.register_blueprint(procedure_summary_bp, url_prefix="/api")
+    app.register_blueprint(material_breakdown_bp, url_prefix="/api")
 
     return app
 

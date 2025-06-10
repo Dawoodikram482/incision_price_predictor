@@ -38,7 +38,7 @@ class Procedure(db.Model):
     created_at = db.Column(db.DateTime, default=datetime.now)
 
     speciality = db.relationship('Speciality', backref=db.backref('procedures', lazy=True))
-
+    
     def __repr__(self):
         return f'<Procedure {self.procedure_name}>'
 

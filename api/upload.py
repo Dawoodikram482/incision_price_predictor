@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import os
 import joblib
+from extensions import db
+from models import Procedure, Material, Surgeon, Speciality, ProcedureMaterial, ProcedureSurgeon
+from datetime import datetime, timezone
 
 # Build absolute paths to your artifacts directory
 MODEL_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "models"))
@@ -28,7 +31,8 @@ upload_bp = Blueprint("upload", __name__)
 def upload_dataset():
     # 1) File check
     if "file" not in request.files:
-        return jsonify({"error": "No file provided"}), 400
+        return jsonify({"error": "The file is required."}), 400
+
     file = request.files["file"]
     if not file.filename.lower().endswith(".csv"):
         return jsonify({"error": "File must be a CSV"}), 400
@@ -149,5 +153,73 @@ def upload_dataset():
             rec["procedure_original_cost"] = orig_cost
             rec["procedure_optimized_cost"] = float(opt_cost)
             results.append(rec)
+
+    # Insert or update records in the database
+    for record in results:
+        # 1. Speciality (if not exists)
+        speciality_name = record.get("specialty")
+        speciality = Speciality.query.filter_by(name=speciality_name).first()
+        if not speciality:
+            speciality = Speciality(name=speciality_name, created_at=datetime.now(timezone.utc))
+            db.session.add(speciality)
+            db.session.flush()
+
+        # 2. Surgeon (if not exists)
+        surgeon = Surgeon.query.filter_by(name=record["surgeon_fullname"]).first()
+        if not surgeon:
+            surgeon = Surgeon(name=record["surgeon_fullname"], speciality_id=speciality.id, created_at=datetime.now(timezone.utc))
+            db.session.add(surgeon)
+            db.session.flush()
+
+        # 3. Procedure (if not exists)
+        procedure = Procedure.query.filter_by(procedure_id=record["procedure_id"]).first()
+        if not procedure:
+            procedure = Procedure(
+                procedure_id=record["procedure_id"],
+                procedure_name=record["procedure_name"],
+                original_cost=record["procedure_original_cost"],
+                optimized_cost=record["procedure_optimized_cost"],
+                speciality_id=speciality.id,
+                created_at=datetime.now(timezone.utc)
+            )
+            db.session.add(procedure)
+            db.session.flush()
+
+        # 4. Material (if not exists)
+        material = Material.query.filter_by(material_id=record["material_id"]).first()
+        if not material:
+            material = Material(
+                material_id=record["material_id"],
+                name=record["material_name"],
+                original_price=record["material_original_price"],
+                optimized_price=record["material_optimized_price"],
+                type=record["material_type"],
+                subtype=record["material_subtype"],
+                created_at=datetime.now(timezone.utc)
+            )
+            db.session.add(material)
+            db.session.flush()
+
+        # 5. ProcedureMaterial (always insert new)
+        proc_mat = ProcedureMaterial(
+            procedure_id=procedure.id,
+            material_id=material.id,
+            surgeon_specific_action=record["surgeon_specific_action"],
+            created_at=datetime.now(timezone.utc)
+        )
+        db.session.add(proc_mat)
+
+        # 6. ProcedureSurgeon (if not exists)
+        proc_surgeon = ProcedureSurgeon.query.filter_by(procedure_id=procedure.id, surgeon_id=surgeon.id).first()
+        if not proc_surgeon:
+            proc_surgeon = ProcedureSurgeon(
+                procedure_id=procedure.id,
+                surgeon_id=surgeon.id,
+                created_at=datetime.now(timezone.utc)
+            )
+            db.session.add(proc_surgeon)
+
+    # Commit all records
+    db.session.commit()
 
     return jsonify({"predictions": results})

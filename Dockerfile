@@ -1,56 +1,22 @@
-# syntax=docker/dockerfile:1
-
-# Comments are provided throughout this file to help you get started.
-# If you need more help, visit the Dockerfile reference guide at
-# https://docs.docker.com/engine/reference/builder/
-
-ARG PYTHON_VERSION=3.12.6
-FROM python:${PYTHON_VERSION}-slim as base
-
-# Prevents Python from writing pyc files.
-ENV PYTHONDONTWRITEBYTECODE=1
-
-# Keeps Python from buffering stdout and stderr to avoid situations where
-# the application crashes without emitting any logs due to buffering.
-ENV PYTHONUNBUFFERED=1
+FROM python:3.11-slim
 
 WORKDIR /app
 
-# Create a non-privileged user that the app will run under.
-# See https://docs.docker.com/go/dockerfile-user-best-practices/
-ARG UID=10001
-RUN adduser \
-    --disabled-password \
-    --gecos "" \
-    --home "/nonexistent" \
-    --shell "/sbin/nologin" \
-    --no-create-home \
-    --uid "${UID}" \
-    appuser
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libpq-dev \
+    curl \
+    netcat-traditional \
+    && rm -rf /var/lib/apt/lists/*
 
-# Set a writable cache directory for PyTorch
-ENV TORCH_HOME=/app/.cache/torch
+COPY requirements.txt requirements.txt
 
-# Create the cache directory and ensure it is writable
-RUN mkdir -p /app/.cache/torch && chown appuser:appuser /app/.cache/torch
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Download dependencies as a separate step to take advantage of Docker's caching.
-# Leverage a cache mount to /root/.cache/pip to speed up subsequent builds.
-# Leverage a bind mount to requirements.txt to avoid having to copy them into
-# into this layer.
-RUN --mount=type=cache,target=/root/.cache/pip \
-    --mount=type=bind,source=requirements.txt,target=requirements.txt \
-    python -m pip install -r requirements.txt
-
-# Switch to the non-privileged user to run the application.
-USER appuser
-
-# Copy the source code into the container.
 COPY . .
 
-# Expose the port that the application listens on.
-EXPOSE 5000
+EXPOSE 5050
 
-# Run the application.
-# CMD gunicorn '.venv.Lib.site-packages.gunicorn.http.wsgi' --bind=0.0.0.0:5000
-CMD ["flask", "--app", "app.py", "run"]
+# CMD ["flask", "--app", "app.py", "run", "--host=0.0.0.0", "--port=5050", "--debug"]
+
+CMD ["gunicorn", "--bind", "0.0.0.0:5050", "--workers", "4", "--timeout", "120", "--access-logfile", "-", "--error-logfile", "-", "run:app"]

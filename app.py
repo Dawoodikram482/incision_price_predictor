@@ -1,71 +1,51 @@
-from flask import Flask, request, jsonify
-import pandas as pd
+# app.py
+from flask import Flask
+from flask_cors import CORS
+from flask_jwt_extended import JWTManager
+from api.upload import upload_bp
+from api.speciality import speciality_bp
+from api.procedure_detail import procedure_detail_bp
+from api.procedure_summary import procedure_summary_bp
+from api.material_breakdown import material_breakdown_bp
+from api.auth import auth_bp
+from extensions import db
 import os
-from preprocessing import preprocess_dataset
-from prediction_model import predict_material_prices
+import datetime
 
-app = Flask(__name__)
-UPLOAD_FOLDER = 'uploads'
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-@app.route('/upload-dataset', methods=['POST'])
-def upload_dataset():
-    if 'file' not in request.files:
-        return jsonify({"error": "No file provided"}), 400
-    
-    file = request.files['file']
-    if not file.filename.endswith('.csv'):
-        return jsonify({"error": "File must be a CSV"}), 400
-    
-    file_path = os.path.join(UPLOAD_FOLDER, file.filename)
-    file.save(file_path)
-    
-    # Load and preprocess dataset
-    data = pd.read_csv(file_path)
-    preprocessed_data = preprocess_dataset(data)
-    
-    # Predict prices
-    predictions = predict_material_prices(preprocessed_data)
-    
-    # Check if dataset has price column
-    has_prices = 'price' in data.columns
-    
-    # Create results
-    results = []
-    for i, pred in enumerate(predictions):
-        result = {"procedure_id": i + 1901, "optimized_cost": pred}
-        if has_prices:
-            result["default_cost"] = data['price'].iloc[i]
-        results.append(result)
-    
-    return jsonify({"predictions": results})
+def create_app():
+    app = Flask(__name__)
 
-# @app.route('/tray-cost', methods=['POST'])
-# def tray_cost():
-#     if 'image' not in request.files:
-#         return jsonify({"error": "No image provided"}), 400
-    
-#     image = request.files['image']
-#     image_path = os.path.join(UPLOAD_FOLDER, image.filename)
-#     image.save(image_path)
-    
-#     # Preprocess image
-#     preprocess_image(image_path)
-    
-#     # Detect tools
-#     tools = detect_tools(image_path)
-    
-#     # Match tools to materials
-#     matched_tools = match_tools(tools)
-    
-#     # Calculate total cost
-#     total_cost = calculate_tray_cost(matched_tools)
-    
-#     return jsonify({
-#         "detected_tools": matched_tools,
-#         "total_cost": total_cost,
-#         "image_path": image_path
-#     })
+    # CORS configuration
+    CORS(app)
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0', port=5000, debug=True)
+    # Database configuration
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+    # JWT configuration
+    # Use a strong secret key in production; set via environment variable
+    app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET_KEY', 'change-this-in-production')
+    app.config['JWT_ACCESS_TOKEN_EXPIRES'] = datetime.timedelta(hours=1)
+
+    db.init_app(app)
+
+    # Initialize JWT manager
+    JWTManager(app)
+
+    # Register authentication and API blueprints
+    app.register_blueprint(auth_bp, url_prefix='/auth')
+    app.register_blueprint(upload_bp, url_prefix='/api')
+    app.register_blueprint(speciality_bp, url_prefix='/api')
+    app.register_blueprint(procedure_detail_bp, url_prefix='/api')
+    app.register_blueprint(procedure_summary_bp, url_prefix='/api')
+    app.register_blueprint(material_breakdown_bp, url_prefix='/api')
+
+    app.debug = True
+    return app
+
+
+app = create_app()
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5050)

@@ -6,6 +6,8 @@ import joblib
 from extensions import db
 from models import Procedure, Material, Surgeon, Speciality, ProcedureMaterial, ProcedureSurgeon
 from datetime import datetime, timezone
+from flask import Blueprint, request, jsonify
+from flask_jwt_extended import jwt_required, get_jwt_identity
 
 # Build absolute paths to your artifacts directory
 MODEL_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "models"))
@@ -28,8 +30,12 @@ def get_cheapest_price(material_name: str):
 upload_bp = Blueprint("upload", __name__)
 
 @upload_bp.route("/upload-dataset", methods=["POST"])
+@jwt_required()
 def upload_dataset():
+
+    current_user = get_jwt_identity()
     # 1) File check
+
     if "file" not in request.files:
         return jsonify({"error": "The file is required."}), 400
 
@@ -222,4 +228,4 @@ def upload_dataset():
     # Commit all records
     db.session.commit()
 
-    return jsonify({"predictions": results})
+    return jsonify({"status": "success", "uploaded_by": current_user}), 200

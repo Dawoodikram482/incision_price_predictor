@@ -2,11 +2,12 @@ from flask import Blueprint, jsonify, request
 from extensions import db
 from models import Surgeon, Procedure, ProcedureSurgeon
 
+#all surgeons of a procedure
 surgeon_bp = Blueprint("procedure", __name__)
 
 @surgeon_bp.route("/surgeons", methods=["GET"])
 def get_surgeons_by_procedure():
-    # this is the ID coming from your CSV
+    # this is the ID coming from CSV
     csv_proc_id = request.args.get("procedure_id")
 
     if not csv_proc_id:
@@ -40,3 +41,6 @@ def get_surgeons_by_procedure():
     ]
 
     return jsonify(result), 200
+
+
+

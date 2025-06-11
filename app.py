@@ -34,7 +34,7 @@ def create_app():
     JWTManager(app)
 
     # Register authentication and API blueprints
-    app.register_blueprint(auth_bp, url_prefix='/auth')
+    app.register_blueprint(auth_bp, url_prefix='/api/auth')
     app.register_blueprint(upload_bp, url_prefix='/api')
     app.register_blueprint(speciality_bp, url_prefix='/api')
     app.register_blueprint(procedure_detail_bp, url_prefix='/api')

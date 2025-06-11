@@ -34,8 +34,9 @@ upload_bp = Blueprint("upload", __name__)
 def upload_dataset():
 
     current_user = get_jwt_identity()
-    # 1) File check
+    #return jsonify({"status": "success", "uploaded_by": current_user}), 200
 
+    # 1) File check
     if "file" not in request.files:
         return jsonify({"error": "The file is required."}), 400
 
@@ -228,4 +229,4 @@ def upload_dataset():
     # Commit all records
     db.session.commit()
 
-    return jsonify({"status": "success", "uploaded_by": current_user}), 200
+    return jsonify({"predictions": results,"status": "success", "uploaded_by": current_user}), 200

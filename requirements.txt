@@ -38,3 +38,4 @@ joblib
 xgboost
 Flask-SQLAlchemy
 psycopg2-binary
+Flask-JWT-Extended

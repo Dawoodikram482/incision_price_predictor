@@ -1,5 +1,6 @@
 # Incision Price Predictor
 
+(because of some merging issues, the latest code is present in the dev-anthony branch)
 A Flask-based web application for predicting procedure prices, managing users, and handling medical data.
 
 ## Features

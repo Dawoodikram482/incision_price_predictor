@@ -20,25 +20,25 @@ az acr login --name "$AZURE_REGISTRY" || { echo "ACR login failed"; exit 1; }
 
 # Build Docker image
 echo "Building Docker image..."
-docker build -t "$AZURE_REGISTRY.azurecr.io/hearteye-ecg-ai-backend:latest" . || { echo "Docker build failed"; exit 1; }
+docker build -t "$AZURE_REGISTRY.azurecr.io/incision_price_predictor:latest" . || { echo "Docker build failed"; exit 1; }
 
 # echo "Building Docker image for amd64..."
 # docker buildx create --use
 # docker buildx build \
 #   --platform linux/amd64 \
-#   -t "$AZURE_REGISTRY.azurecr.io/hearteye-ecg-ai-backend:latest" \
+#   -t "$AZURE_REGISTRY.azurecr.io/incision_price_predictor:latest" \
 #   --push . || { echo "Docker buildx push failed"; exit 1; }
 
 # Push image to ACR
 echo "Pushing Docker image to Azure Container Registry..."
-docker push "$AZURE_REGISTRY.azurecr.io/hearteye-ecg-ai-backend:latest" || { echo "Docker push failed"; exit 1; }
+docker push "$AZURE_REGISTRY.azurecr.io/incision_price_predictor:latest" || { echo "Docker push failed"; exit 1; }
 
 # Deploy to Azure Container Instance
 echo "Deploying container instance..."
 az container create \
   --resource-group "$AZURE_RESOURCE_GROUP" \
   --name "$AZURE_CONTAINER_NAME" \
-  --image "$AZURE_REGISTRY.azurecr.io/hearteye-ecg-ai-backend:latest" \
+  --image "$AZURE_REGISTRY.azurecr.io/incision_price_predictor:latest" \
   --registry-login-server "$AZURE_REGISTRY.azurecr.io" \
   --registry-username "$AZURE_REGISTRY_USERNAME" \
   --registry-password "$AZURE_REGISTRY_PASSWORD" \
@@ -56,6 +56,7 @@ az container create \
     POSTGRES_PASSWORD=$POSTGRES_PASSWORD \
     POSTGRES_DB=$POSTGRES_DB \
     DATABASE_URL=$DATABASE_URL \
+    JWT_SECRET_KEY="$JWT_SECRET_KEY" \
  --only-show-errors \
  --query "id" \
  --output tsv || { echo "Deployment failed"; exit 1; }

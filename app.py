@@ -18,9 +18,9 @@ import datetime
 def create_app():
     app = Flask(__name__)
 
-    # CORS configuration
-    CORS(app)
+    
 
+    CORS(app, resources={r"/api/*": {"origins":"*"}}, supports_credentials=True)
     # Database configuration
     app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -52,4 +52,4 @@ def create_app():
 app = create_app()
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5050)
+    app.run(host='0.0.0.0', port=5000)

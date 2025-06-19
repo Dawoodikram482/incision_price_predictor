@@ -1,0 +1,6 @@
+cvData/obj_train_data/tray1.png
+cvData/obj_train_data/Mamma amputatie zonder okselkliertoilet.png
+cvData/obj_train_data/Mastectomy.png
+cvData/obj_train_data/Open Unilateral Cleft Lip and Nasal Repair.png
+cvData/obj_train_data/Peroperatief angiogram.png
+cvData/obj_train_data/tray2.png
